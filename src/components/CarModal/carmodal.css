@@ -1,0 +1,96 @@
+.carmodal-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 2000;
+  background: rgba(0,0,0,0.75);
+  backdrop-filter: blur(6px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+}
+
+.carmodal {
+  width: 100%;
+  max-width: 640px;
+  max-height: 88vh;
+  overflow-y: auto;
+  border-radius: var(--radius-lg);
+  position: relative;
+}
+
+.carmodal-close {
+  position: absolute;
+  top: 18px;
+  right: 18px;
+  z-index: 2;
+  color: var(--color-white);
+  background: rgba(0,0,0,0.4);
+  border-radius: 50%;
+  width: 36px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.carmodal-gallery {
+  height: 180px;
+  background: linear-gradient(135deg, #1a1a1a, #0B0B0B);
+  display: flex;
+  align-items: flex-end;
+  padding: 16px;
+  border-radius: var(--radius-lg) var(--radius-lg) 0 0;
+  position: relative;
+}
+.carmodal-gallery::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: var(--radius-lg) var(--radius-lg) 0 0;
+  background: linear-gradient(180deg, rgba(0,0,0,0.05) 40%, rgba(0,0,0,0.65) 100%);
+}
+.carmodal-gallery .car-badge { position: relative; z-index: 1; }
+
+.carmodal-body { padding: 28px 30px 34px; }
+.carmodal-top { display: flex; justify-content: space-between; align-items: flex-start; gap: 14px; margin-bottom: 6px; }
+.carmodal-top h2 { font-size: 1.4rem; }
+.carmodal-year { color: var(--color-silver); font-size: 0.82rem; opacity: 0.7; margin-top: 4px; }
+.carmodal-price { color: var(--color-gold); font-weight: 700; font-size: 1.1rem; white-space: nowrap; }
+.carmodal-desc { color: var(--color-silver); font-size: 0.92rem; line-height: 1.65; margin: 16px 0 24px; }
+
+.carmodal-specs {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 14px 20px;
+  margin-bottom: 26px;
+  padding: 20px;
+  background: rgba(255,255,255,0.03);
+  border-radius: var(--radius-md);
+}
+.carmodal-specs div { display: flex; flex-direction: column; gap: 4px; }
+.carmodal-specs span { color: rgba(255,255,255,0.5); font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.5px; }
+.carmodal-specs strong { display: flex; align-items: center; gap: 6px; font-size: 0.9rem; font-weight: 500; }
+.carmodal-specs svg { color: var(--color-gold); }
+
+.carmodal-subhead { font-size: 0.95rem; margin: 22px 0 12px; color: var(--color-gold); }
+.carmodal-features { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; }
+.carmodal-features li { display: flex; align-items: center; gap: 8px; font-size: 0.85rem; color: var(--color-silver); }
+.carmodal-features svg { color: var(--color-gold); flex-shrink: 0; }
+
+.carmodal-detail-text { color: var(--color-silver); font-size: 0.88rem; line-height: 1.6; }
+
+.carmodal-actions { display: flex; gap: 14px; margin-top: 30px; flex-wrap: wrap; }
+
+@media (max-width: 520px) {
+  .carmodal-specs, .carmodal-features { grid-template-columns: 1fr; }
+}
+
+@media (max-width: 480px) {
+  .carmodal-backdrop { padding: 0; align-items: flex-end; }
+  .carmodal { max-width: 100%; max-height: 92vh; border-radius: var(--radius-lg) var(--radius-lg) 0 0; }
+  .carmodal-body { padding: 22px 18px 28px; }
+  .carmodal-top h2 { font-size: 1.15rem; }
+  .carmodal-actions { flex-direction: column; }
+  .carmodal-actions a { justify-content: center; }
+}

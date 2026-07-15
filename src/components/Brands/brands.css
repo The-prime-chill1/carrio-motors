@@ -1,0 +1,29 @@
+.brand-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 24px;
+}
+.brand-card {
+  position: relative;
+  padding: 32px 28px;
+  border-radius: var(--radius-lg);
+  background: rgba(255,255,255,0.03);
+  border: 1px solid rgba(255,255,255,0.08);
+  transition: border-color var(--transition-luxury), box-shadow var(--transition-luxury), transform var(--transition-luxury);
+}
+.brand-card:hover {
+  border-color: var(--color-gold);
+  box-shadow: 0 0 0 1px var(--color-gold-soft), 0 20px 50px -20px rgba(45,212,191,0.35);
+  transform: translateY(-6px);
+}
+.brand-card h3 { font-size: 1.5rem; margin-bottom: 6px; }
+.brand-tagline { color: var(--color-gold); font-size: 0.82rem; font-style: italic; margin-bottom: 14px; }
+.brand-desc { color: var(--color-silver); font-size: 0.88rem; line-height: 1.6; margin-bottom: 18px; }
+.brand-models { display: flex; flex-wrap: wrap; gap: 8px; }
+.brand-models span {
+  font-size: 0.72rem;
+  padding: 6px 12px;
+  border-radius: 999px;
+  border: 1px solid rgba(255,255,255,0.12);
+  color: var(--color-silver);
+}

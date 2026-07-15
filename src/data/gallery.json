@@ -1,0 +1,11 @@
+[
+  { "id": "g01", "category": "Showroom", "image": "/images/gallery/showroom.jpg", "caption": "The Carrio Motors private collection showroom floor" },
+  { "id": "g02", "category": "SUV", "image": "/images/gallery/bmw-suv.jpg", "caption": "BMW X6 in matte white, forest-road delivery shoot" },
+  { "id": "g03", "category": "SUV", "image": "/images/gallery/jeep-suv.jpg", "caption": "Jeep Compass — front, profile and rear detail" },
+  { "id": "g04", "category": "SUV", "image": "/images/gallery/audi-suv.jpg", "caption": "Audi SQ8 studio profile shot" },
+  { "id": "g05", "category": "Sports", "image": "/images/gallery/audi-sport.jpg", "caption": "Audi R8 with carbon aero package" },
+  { "id": "g06", "category": "Sedan", "image": "/images/gallery/hyundai-sedan.jpg", "caption": "Hyundai Elantra N — studio three-angle turntable" },
+  { "id": "g07", "category": "Interior", "image": "/images/gallery/interior.jpg", "caption": "Quilted leather cabin with starlight headliner" },
+  { "id": "g08", "category": "Events", "image": "/images/gallery/delivery-day.jpg", "caption": "Client delivery day — keys handed over" },
+  { "id": "g09", "category": "Sedan", "image": "/images/gallery/sedan.jpg", "caption": "Executive sedan, dusk showcase shoot" }
+]

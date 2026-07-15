@@ -1,0 +1,12 @@
+[
+  { "id": "s01", "title": "Test Drive", "icon": "FaCarSide", "description": "Book a private, no-pressure test drive at our Ibeju-Lekki showroom or a location of your choice." },
+  { "id": "s02", "title": "Premium Warranty", "icon": "FaShieldAlt", "description": "Every vehicle comes backed by manufacturer-grade warranty coverage administered by Carrio Motors." },
+  { "id": "s03", "title": "Certified Vehicles", "icon": "FaCircleInfo", "description": "Every unit undergoes a rigorous multi-point certification process before it reaches our showroom floor." },
+  { "id": "s04", "title": "Vehicle Inspection", "icon": "FaMagnifyingGlass", "description": "Independent pre-purchase inspection reports available on request for full transparency." },
+  { "id": "s05", "title": "Roadside Assistance", "icon": "FaTruckMedical", "description": "24/7 roadside support for Carrio clients, anywhere within Lagos and surrounding states." },
+  { "id": "s06", "title": "Maintenance", "icon": "FaScrewdriverWrench", "description": "Scheduled maintenance plans performed by manufacturer-trained technicians using genuine parts." },
+  { "id": "s07", "title": "Insurance", "icon": "FaFileShield", "description": "Bundled comprehensive insurance packages tailored to your vehicle and usage profile." },
+  { "id": "s08", "title": "Financing", "icon": "FaMoneyCheckDollar", "description": "Flexible finance plans with same-week approval for qualifying buyers." },
+  { "id": "s09", "title": "Customer Support", "icon": "FaHeadset", "description": "A dedicated relationship manager guides you from enquiry through delivery and beyond." },
+  { "id": "s10", "title": "Genuine Parts", "icon": "FaGears", "description": "Direct access to genuine OEM parts for every brand we carry." }
+]

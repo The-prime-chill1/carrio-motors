@@ -1,0 +1,29 @@
+[
+  {
+    "id": "f001",
+    "planName": "Carrio Classic Plan",
+    "monthlyPayment": "From ₦850,000/mo",
+    "interestRate": "14.5% p.a.",
+    "loanDuration": "12 - 36 months",
+    "downPayment": "30% minimum",
+    "highlights": ["Fast approval within 48 hours", "Flexible repayment schedule", "No hidden charges"]
+  },
+  {
+    "id": "f002",
+    "planName": "Carrio Premier Plan",
+    "monthlyPayment": "From ₦1,200,000/mo",
+    "interestRate": "12.9% p.a.",
+    "loanDuration": "12 - 48 months",
+    "downPayment": "25% minimum",
+    "highlights": ["Preferential rate for repeat clients", "Dedicated finance advisor", "Insurance bundling available"]
+  },
+  {
+    "id": "f003",
+    "planName": "Carrio Elite Plan",
+    "monthlyPayment": "From ₦1,650,000/mo",
+    "interestRate": "11.5% p.a.",
+    "loanDuration": "12 - 60 months",
+    "downPayment": "20% minimum",
+    "highlights": ["Lowest rate tier", "Priority vehicle delivery", "Complimentary first service"]
+  }
+]

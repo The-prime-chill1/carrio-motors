@@ -1,0 +1,3076 @@
+[
+  {
+    "id": "c001",
+    "brand": "BMW",
+    "model": "X5 xDrive40i",
+    "year": 2024,
+    "category": "SUV",
+    "price": 62500000,
+    "currency": "NGN",
+    "horsepower": 375,
+    "engine": "3.0L Turbocharged Inline-6",
+    "transmission": "8-Speed Automatic",
+    "fuel": "Petrol",
+    "mileage": "1,200 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/bmw/x5.jpg"
+    ],
+    "features": [
+      "Panoramic Sunroof",
+      "Adaptive LED Headlights",
+      "Harman Kardon Surround Sound",
+      "Ambient Lighting",
+      "Wireless Charging"
+    ],
+    "warrantyId": "w001",
+    "financeId": "f001",
+    "description": "The BMW X5 xDrive40i delivers commanding presence and refined performance, wrapped in a cabin engineered for uncompromising comfort."
+  },
+  {
+    "id": "c002",
+    "brand": "Audi",
+    "model": "Q7 55 TFSI",
+    "year": 2024,
+    "category": "SUV",
+    "price": 68900000,
+    "currency": "NGN",
+    "horsepower": 335,
+    "engine": "3.0L TFSI V6",
+    "transmission": "8-Speed Tiptronic",
+    "fuel": "Petrol",
+    "mileage": "800 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/audi/q7.jpg"
+    ],
+    "features": [
+      "quattro AWD",
+      "Virtual Cockpit",
+      "Bang & Olufsen Audio",
+      "Air Suspension",
+      "Matrix LED Headlights"
+    ],
+    "warrantyId": "w002",
+    "financeId": "f002",
+    "description": "A seven-seat flagship SUV that pairs quattro all-wheel drive with progressive Audi design language for a truly premium family experience."
+  },
+  {
+    "id": "c003",
+    "brand": "BMW",
+    "model": "M4 Competition",
+    "year": 2024,
+    "category": "Sports",
+    "price": 95000000,
+    "currency": "NGN",
+    "horsepower": 503,
+    "engine": "3.0L Twin-Turbo Inline-6",
+    "transmission": "8-Speed M Steptronic",
+    "fuel": "Petrol",
+    "mileage": "450 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/bmw/m4-competition.jpg"
+    ],
+    "features": [
+      "Carbon Fiber Roof",
+      "M Sport Differential",
+      "Adaptive M Suspension",
+      "Carbon Bucket Seats",
+      "Launch Control"
+    ],
+    "warrantyId": "w001",
+    "financeId": "f003",
+    "description": "Track-bred performance for the road — the M4 Competition is a razor-sharp coupe built for pure driving emotion."
+  },
+  {
+    "id": "c004",
+    "brand": "Jeep",
+    "model": "Grand Cherokee L",
+    "year": 2023,
+    "category": "SUV",
+    "price": 48000000,
+    "currency": "NGN",
+    "horsepower": 293,
+    "engine": "3.6L Pentastar V6",
+    "transmission": "8-Speed Automatic",
+    "fuel": "Petrol",
+    "mileage": "3,500 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/jeep/grand-cherokee-l.jpg"
+    ],
+    "features": [
+      "Quadra-Trac II 4x4",
+      "Three-Row Seating",
+      "McKinley Leather",
+      "Off-Road Package",
+      "Night Vision Camera"
+    ],
+    "warrantyId": "w003",
+    "financeId": "f001",
+    "description": "Three rows of premium comfort with legendary Jeep off-road capability built into every drivetrain component."
+  },
+  {
+    "id": "c005",
+    "brand": "Hyundai",
+    "model": "Palisade Calligraphy",
+    "year": 2024,
+    "category": "SUV",
+    "price": 39500000,
+    "currency": "NGN",
+    "horsepower": 291,
+    "engine": "3.8L V6",
+    "transmission": "8-Speed Automatic",
+    "fuel": "Petrol",
+    "mileage": "600 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/hyundai/palisade.jpg"
+    ],
+    "features": [
+      "Nappa Leather Seats",
+      "Highway Driving Assist",
+      "Bose Premium Audio",
+      "Remote Smart Parking",
+      "Heated & Ventilated Seats"
+    ],
+    "warrantyId": "w004",
+    "financeId": "f002",
+    "description": "Hyundai's flagship SUV, the Palisade Calligraphy trim brings near-luxury refinement to a spacious, technology-rich cabin."
+  },
+  {
+    "id": "c006",
+    "brand": "Kia",
+    "model": "Telluride SX",
+    "year": 2024,
+    "category": "SUV",
+    "price": 41200000,
+    "currency": "NGN",
+    "horsepower": 291,
+    "engine": "3.8L V6",
+    "transmission": "8-Speed Automatic",
+    "fuel": "Petrol",
+    "mileage": "1,000 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/kia/telluride.jpg"
+    ],
+    "features": [
+      "Boston Acoustics Audio",
+      "Dual Sunroof",
+      "Blind-Spot View Monitor",
+      "Heated Second Row",
+      "Premium Nappa Leather"
+    ],
+    "warrantyId": "w004",
+    "financeId": "f003",
+    "description": "Bold, boxy styling and a genuinely premium interior make the Telluride SX a standout in its class."
+  },
+  {
+    "id": "c007",
+    "brand": "Audi",
+    "model": "A6 45 TFSI",
+    "year": 2023,
+    "category": "Sedan",
+    "price": 45700000,
+    "currency": "NGN",
+    "horsepower": 261,
+    "engine": "2.0L TFSI Turbo",
+    "transmission": "7-Speed S tronic",
+    "fuel": "Petrol",
+    "mileage": "2,100 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/audi/a6.jpg"
+    ],
+    "features": [
+      "quattro AWD",
+      "MMI Touch Response",
+      "Adaptive Cruise Assist",
+      "Valcona Leather",
+      "Bang & Olufsen 3D Sound"
+    ],
+    "warrantyId": "w002",
+    "financeId": "f001",
+    "description": "Executive elegance with athletic composure — the A6 blends progressive technology with timeless proportions."
+  },
+  {
+    "id": "c008",
+    "brand": "MG",
+    "model": "MG HS Trophy",
+    "year": 2024,
+    "category": "SUV",
+    "price": 26800000,
+    "currency": "NGN",
+    "horsepower": 224,
+    "engine": "2.0L Turbo",
+    "transmission": "7-Speed DCT",
+    "fuel": "Petrol",
+    "mileage": "900 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/mg/hs.jpg"
+    ],
+    "features": [
+      "Panoramic Sunroof",
+      "360 Camera",
+      "Adaptive Cruise Control",
+      "Wireless Apple CarPlay",
+      "Heated Front Seats"
+    ],
+    "warrantyId": "w005",
+    "financeId": "f002",
+    "description": "British design heritage reborn — the HS Trophy offers a striking, tech-forward package at a compelling value."
+  },
+  {
+    "id": "c009",
+    "brand": "BMW",
+    "model": "M5 Competition",
+    "year": 2024,
+    "category": "Sports",
+    "price": 67500000,
+    "currency": "NGN",
+    "horsepower": 342,
+    "engine": "3.0L Twin-Turbo Inline-6",
+    "transmission": "8-Speed Tiptronic",
+    "fuel": "Petrol",
+    "mileage": "2,200 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/bmw/m5-competition.jpg"
+    ],
+    "features": [
+      "Launch Control",
+      "Adaptive Sport Suspension",
+      "Performance Exhaust",
+      "Carbon Fiber Roof",
+      "Torque Vectoring AWD"
+    ],
+    "warrantyId": "w001",
+    "financeId": "f001",
+    "description": "Precision German engineering meets sports versatility in the BMW M5 Competition — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c010",
+    "brand": "BMW",
+    "model": "M2 Coupe",
+    "year": 2024,
+    "category": "Sports",
+    "price": 88300000,
+    "currency": "NGN",
+    "horsepower": 346,
+    "engine": "4.0L Twin-Turbo V8",
+    "transmission": "8-Speed Tiptronic",
+    "fuel": "Petrol",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/bmw/m2-coupe.jpg"
+    ],
+    "features": [
+      "Carbon Fiber Roof",
+      "Adaptive Sport Suspension",
+      "Performance Exhaust",
+      "Launch Control",
+      "Torque Vectoring AWD"
+    ],
+    "warrantyId": "w001",
+    "financeId": "f002",
+    "description": "Precision German engineering meets sports versatility in the BMW M2 Coupe — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c011",
+    "brand": "BMW",
+    "model": "X7 xDrive40i",
+    "year": 2024,
+    "category": "SUV",
+    "price": 64600000,
+    "currency": "NGN",
+    "horsepower": 287,
+    "engine": "3.6L V6",
+    "transmission": "7-Speed DCT",
+    "fuel": "Petrol",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/bmw/x7.jpg"
+    ],
+    "features": [
+      "Adaptive Cruise Control",
+      "Heated & Ventilated Seats",
+      "Three-Row Seating",
+      "Panoramic Sunroof",
+      "Off-Road Drive Modes"
+    ],
+    "warrantyId": "w001",
+    "financeId": "f003",
+    "description": "Precision German engineering meets suv versatility in the BMW X7 xDrive40i — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c012",
+    "brand": "BMW",
+    "model": "X3 xDrive30i",
+    "year": 2023,
+    "category": "SUV",
+    "price": 46600000,
+    "currency": "NGN",
+    "horsepower": 219,
+    "engine": "3.0L Turbocharged Inline-6",
+    "transmission": "7-Speed DCT",
+    "fuel": "Petrol",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/bmw/x3.jpg"
+    ],
+    "features": [
+      "Three-Row Seating",
+      "Panoramic Sunroof",
+      "Heated & Ventilated Seats",
+      "360 Camera",
+      "Adaptive Cruise Control"
+    ],
+    "warrantyId": "w001",
+    "financeId": "f001",
+    "description": "Precision German engineering meets suv versatility in the BMW X3 xDrive30i — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c013",
+    "brand": "BMW",
+    "model": "X6 M60i",
+    "year": 2024,
+    "category": "SUV",
+    "price": 45800000,
+    "currency": "NGN",
+    "horsepower": 386,
+    "engine": "3.0L Turbocharged Inline-6",
+    "transmission": "6-Speed Automatic",
+    "fuel": "Petrol",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/bmw/x6.jpg"
+    ],
+    "features": [
+      "Off-Road Drive Modes",
+      "Adaptive Cruise Control",
+      "Panoramic Sunroof",
+      "360 Camera",
+      "Heated & Ventilated Seats"
+    ],
+    "warrantyId": "w001",
+    "financeId": "f002",
+    "description": "Precision German engineering meets suv versatility in the BMW X6 M60i — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c014",
+    "brand": "BMW",
+    "model": "5 Series 530i",
+    "year": 2024,
+    "category": "Sedan",
+    "price": 38800000,
+    "currency": "NGN",
+    "horsepower": 212,
+    "engine": "3.0L Turbocharged Inline-6",
+    "transmission": "8-Speed Automatic",
+    "fuel": "Petrol",
+    "mileage": "1,500 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/bmw/5-series.jpg"
+    ],
+    "features": [
+      "Wireless Apple CarPlay",
+      "Leather Upholstery",
+      "Premium Sound System",
+      "Ambient Lighting",
+      "Blind-Spot Monitoring"
+    ],
+    "warrantyId": "w001",
+    "financeId": "f003",
+    "description": "Precision German engineering meets sedan versatility in the BMW 5 Series 530i — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c015",
+    "brand": "BMW",
+    "model": "i5 eDrive40",
+    "year": 2024,
+    "category": "Electric",
+    "price": 47600000,
+    "currency": "NGN",
+    "horsepower": 251,
+    "engine": "Single-Motor Electric RWD",
+    "transmission": "Single-Speed Automatic",
+    "fuel": "Electric",
+    "mileage": "850 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/bmw/i5.jpg"
+    ],
+    "features": [
+      "Digital Cockpit",
+      "Over-the-Air Updates",
+      "Heat Pump Climate System",
+      "Fast DC Charging",
+      "Regenerative Braking"
+    ],
+    "warrantyId": "w001",
+    "financeId": "f001",
+    "description": "Precision German engineering meets electric versatility in the BMW i5 eDrive40 — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c016",
+    "brand": "BMW",
+    "model": "i7 xDrive60",
+    "year": 2024,
+    "category": "Luxury",
+    "price": 104100000,
+    "currency": "NGN",
+    "horsepower": 546,
+    "engine": "4.4L Twin-Turbo V8",
+    "transmission": "7-Speed DCT",
+    "fuel": "Petrol",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/bmw/i7.jpg"
+    ],
+    "features": [
+      "Rear Entertainment System",
+      "Massage Seats",
+      "Executive Rear Seating",
+      "Bespoke Interior Trim",
+      "Air Suspension"
+    ],
+    "warrantyId": "w001",
+    "financeId": "f002",
+    "description": "Precision German engineering meets luxury versatility in the BMW i7 xDrive60 — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c017",
+    "brand": "Audi",
+    "model": "RS7 Sportback",
+    "year": 2024,
+    "category": "Sports",
+    "price": 85500000,
+    "currency": "NGN",
+    "horsepower": 468,
+    "engine": "3.0L Twin-Turbo Inline-6",
+    "transmission": "8-Speed M Steptronic",
+    "fuel": "Petrol",
+    "mileage": "2,200 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/audi/rs7.jpg"
+    ],
+    "features": [
+      "Torque Vectoring AWD",
+      "Performance Exhaust",
+      "Adaptive Sport Suspension",
+      "Launch Control",
+      "Sport Bucket Seats"
+    ],
+    "warrantyId": "w002",
+    "financeId": "f003",
+    "description": "Progressive quattro-driven design meets sports versatility in the Audi RS7 Sportback — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c018",
+    "brand": "Audi",
+    "model": "R8 V10 Performance",
+    "year": 2023,
+    "category": "Sports",
+    "price": 62200000,
+    "currency": "NGN",
+    "horsepower": 491,
+    "engine": "4.0L Twin-Turbo V8",
+    "transmission": "8-Speed Tiptronic",
+    "fuel": "Petrol",
+    "mileage": "850 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/audi/r8.jpg"
+    ],
+    "features": [
+      "Launch Control",
+      "Carbon Fiber Roof",
+      "Adaptive Sport Suspension",
+      "Torque Vectoring AWD",
+      "Sport Bucket Seats"
+    ],
+    "warrantyId": "w002",
+    "financeId": "f001",
+    "description": "Progressive quattro-driven design meets sports versatility in the Audi R8 V10 Performance — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c019",
+    "brand": "Audi",
+    "model": "SQ5",
+    "year": 2024,
+    "category": "SUV",
+    "price": 58000000,
+    "currency": "NGN",
+    "horsepower": 349,
+    "engine": "3.0L Turbocharged Inline-6",
+    "transmission": "6-Speed Automatic",
+    "fuel": "Petrol",
+    "mileage": "2,200 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/audi/sq5.jpg"
+    ],
+    "features": [
+      "Adaptive Cruise Control",
+      "360 Camera",
+      "Three-Row Seating",
+      "Panoramic Sunroof",
+      "Off-Road Drive Modes"
+    ],
+    "warrantyId": "w002",
+    "financeId": "f002",
+    "description": "Progressive quattro-driven design meets suv versatility in the Audi SQ5 — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c020",
+    "brand": "Audi",
+    "model": "Q5 45 TFSI",
+    "year": 2023,
+    "category": "SUV",
+    "price": 56800000,
+    "currency": "NGN",
+    "horsepower": 329,
+    "engine": "2.0L Turbocharged Inline-4",
+    "transmission": "8-Speed Automatic",
+    "fuel": "Petrol",
+    "mileage": "850 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/audi/q5.jpg"
+    ],
+    "features": [
+      "Three-Row Seating",
+      "360 Camera",
+      "Heated & Ventilated Seats",
+      "Off-Road Drive Modes",
+      "Adaptive Cruise Control"
+    ],
+    "warrantyId": "w002",
+    "financeId": "f003",
+    "description": "Progressive quattro-driven design meets suv versatility in the Audi Q5 45 TFSI — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c021",
+    "brand": "Audi",
+    "model": "Q8 55 TFSI",
+    "year": 2024,
+    "category": "Luxury",
+    "price": 97400000,
+    "currency": "NGN",
+    "horsepower": 414,
+    "engine": "3.0L Turbo Inline-6 Mild-Hybrid",
+    "transmission": "6-Speed Automatic",
+    "fuel": "Petrol",
+    "mileage": "2,200 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/audi/q8.jpg"
+    ],
+    "features": [
+      "Executive Rear Seating",
+      "Night Vision Assist",
+      "Massage Seats",
+      "Rear Entertainment System",
+      "Bespoke Interior Trim"
+    ],
+    "warrantyId": "w002",
+    "financeId": "f001",
+    "description": "Progressive quattro-driven design meets luxury versatility in the Audi Q8 55 TFSI — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c022",
+    "brand": "Audi",
+    "model": "A4 40 TFSI",
+    "year": 2023,
+    "category": "Sedan",
+    "price": 26400000,
+    "currency": "NGN",
+    "horsepower": 122,
+    "engine": "2.0L Turbocharged Inline-4",
+    "transmission": "7-Speed DCT",
+    "fuel": "Petrol",
+    "mileage": "2,200 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/audi/a4.jpg"
+    ],
+    "features": [
+      "Keyless Entry",
+      "Leather Upholstery",
+      "Ambient Lighting",
+      "Blind-Spot Monitoring",
+      "Wireless Apple CarPlay"
+    ],
+    "warrantyId": "w002",
+    "financeId": "f002",
+    "description": "Progressive quattro-driven design meets sedan versatility in the Audi A4 40 TFSI — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c023",
+    "brand": "Audi",
+    "model": "e-tron GT quattro",
+    "year": 2024,
+    "category": "Electric",
+    "price": 61200000,
+    "currency": "NGN",
+    "horsepower": 280,
+    "engine": "Tri-Motor Electric AWD",
+    "transmission": "Single-Speed Automatic",
+    "fuel": "Electric",
+    "mileage": "850 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/audi/e-tron-gt.jpg"
+    ],
+    "features": [
+      "Fast DC Charging",
+      "Digital Cockpit",
+      "Regenerative Braking",
+      "One-Pedal Driving",
+      "Heat Pump Climate System"
+    ],
+    "warrantyId": "w002",
+    "financeId": "f003",
+    "description": "Progressive quattro-driven design meets electric versatility in the Audi e-tron GT quattro — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c024",
+    "brand": "Audi",
+    "model": "Q4 e-tron 40",
+    "year": 2024,
+    "category": "Electric",
+    "price": 52000000,
+    "currency": "NGN",
+    "horsepower": 459,
+    "engine": "Tri-Motor Electric AWD",
+    "transmission": "Single-Speed Automatic",
+    "fuel": "Electric",
+    "mileage": "1,500 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/audi/q4-e-tron.jpg"
+    ],
+    "features": [
+      "Regenerative Braking",
+      "Heat Pump Climate System",
+      "Digital Cockpit",
+      "Fast DC Charging",
+      "Over-the-Air Updates"
+    ],
+    "warrantyId": "w002",
+    "financeId": "f001",
+    "description": "Progressive quattro-driven design meets electric versatility in the Audi Q4 e-tron 40 — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c025",
+    "brand": "Hyundai",
+    "model": "Tucson Hybrid",
+    "year": 2024,
+    "category": "Hybrid",
+    "price": 48900000,
+    "currency": "NGN",
+    "horsepower": 355,
+    "engine": "2.5L Hybrid Inline-4",
+    "transmission": "6-Speed Automatic",
+    "fuel": "Petrol-Electric Hybrid",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/hyundai/tucson.jpg"
+    ],
+    "features": [
+      "Regenerative Braking",
+      "Fuel Economy Display",
+      "Hybrid Battery Warranty",
+      "Eco Drive Mode",
+      "Adaptive Cruise Control"
+    ],
+    "warrantyId": "w004",
+    "financeId": "f002",
+    "description": "Award-winning value and refinement meets hybrid versatility in the Hyundai Tucson Hybrid — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c026",
+    "brand": "Hyundai",
+    "model": "Santa Fe Calligraphy",
+    "year": 2024,
+    "category": "SUV",
+    "price": 33300000,
+    "currency": "NGN",
+    "horsepower": 201,
+    "engine": "2.5L Inline-4",
+    "transmission": "7-Speed DCT",
+    "fuel": "Petrol",
+    "mileage": "2,200 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/hyundai/santa-fe.jpg"
+    ],
+    "features": [
+      "Adaptive Cruise Control",
+      "Panoramic Sunroof",
+      "360 Camera",
+      "Heated & Ventilated Seats",
+      "Off-Road Drive Modes"
+    ],
+    "warrantyId": "w004",
+    "financeId": "f003",
+    "description": "Award-winning value and refinement meets suv versatility in the Hyundai Santa Fe Calligraphy — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c027",
+    "brand": "Hyundai",
+    "model": "Elantra N",
+    "year": 2024,
+    "category": "Sedan",
+    "price": 35700000,
+    "currency": "NGN",
+    "horsepower": 228,
+    "engine": "3.6L V6",
+    "transmission": "6-Speed Automatic",
+    "fuel": "Petrol",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/hyundai/elantra.jpg"
+    ],
+    "features": [
+      "Premium Sound System",
+      "Wireless Apple CarPlay",
+      "Ambient Lighting",
+      "Keyless Entry",
+      "Blind-Spot Monitoring"
+    ],
+    "warrantyId": "w004",
+    "financeId": "f001",
+    "description": "Award-winning value and refinement meets sedan versatility in the Hyundai Elantra N — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c028",
+    "brand": "Hyundai",
+    "model": "Sonata N Line",
+    "year": 2023,
+    "category": "Sedan",
+    "price": 33100000,
+    "currency": "NGN",
+    "horsepower": 150,
+    "engine": "2.5L Inline-4",
+    "transmission": "8-Speed Automatic",
+    "fuel": "Petrol",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/hyundai/sonata.jpg"
+    ],
+    "features": [
+      "Wireless Apple CarPlay",
+      "Leather Upholstery",
+      "Ambient Lighting",
+      "Premium Sound System",
+      "Blind-Spot Monitoring"
+    ],
+    "warrantyId": "w004",
+    "financeId": "f002",
+    "description": "Award-winning value and refinement meets sedan versatility in the Hyundai Sonata N Line — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c029",
+    "brand": "Hyundai",
+    "model": "Ioniq 5",
+    "year": 2024,
+    "category": "Electric",
+    "price": 36800000,
+    "currency": "NGN",
+    "horsepower": 230,
+    "engine": "Single-Motor Electric RWD",
+    "transmission": "Single-Speed Automatic",
+    "fuel": "Electric",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/hyundai/ioniq5.jpg"
+    ],
+    "features": [
+      "Fast DC Charging",
+      "Heat Pump Climate System",
+      "Digital Cockpit",
+      "One-Pedal Driving",
+      "Over-the-Air Updates"
+    ],
+    "warrantyId": "w004",
+    "financeId": "f003",
+    "description": "Award-winning value and refinement meets electric versatility in the Hyundai Ioniq 5 — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c030",
+    "brand": "Hyundai",
+    "model": "Kona Electric",
+    "year": 2024,
+    "category": "Electric",
+    "price": 64600000,
+    "currency": "NGN",
+    "horsepower": 309,
+    "engine": "Single-Motor Electric RWD",
+    "transmission": "Single-Speed Automatic",
+    "fuel": "Electric",
+    "mileage": "1,500 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/hyundai/kona-electric.jpg"
+    ],
+    "features": [
+      "Regenerative Braking",
+      "One-Pedal Driving",
+      "Over-the-Air Updates",
+      "Fast DC Charging",
+      "Heat Pump Climate System"
+    ],
+    "warrantyId": "w004",
+    "financeId": "f001",
+    "description": "Award-winning value and refinement meets electric versatility in the Hyundai Kona Electric — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c031",
+    "brand": "Hyundai",
+    "model": "Tucson",
+    "year": 2023,
+    "category": "SUV",
+    "price": 40800000,
+    "currency": "NGN",
+    "horsepower": 204,
+    "engine": "3.6L V6",
+    "transmission": "6-Speed Automatic",
+    "fuel": "Petrol",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/hyundai/tucson.jpg"
+    ],
+    "features": [
+      "Off-Road Drive Modes",
+      "Adaptive Cruise Control",
+      "Three-Row Seating",
+      "360 Camera",
+      "Heated & Ventilated Seats"
+    ],
+    "warrantyId": "w004",
+    "financeId": "f002",
+    "description": "Award-winning value and refinement meets suv versatility in the Hyundai Tucson — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c032",
+    "brand": "Kia",
+    "model": "Sportage GT-Line",
+    "year": 2024,
+    "category": "SUV",
+    "price": 31600000,
+    "currency": "NGN",
+    "horsepower": 352,
+    "engine": "2.0L Turbocharged Inline-4",
+    "transmission": "8-Speed Automatic",
+    "fuel": "Petrol",
+    "mileage": "2,200 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/kia/sportage.jpg"
+    ],
+    "features": [
+      "Off-Road Drive Modes",
+      "Panoramic Sunroof",
+      "Heated & Ventilated Seats",
+      "360 Camera",
+      "Three-Row Seating"
+    ],
+    "warrantyId": "w004",
+    "financeId": "f003",
+    "description": "Bold design, dependable engineering meets suv versatility in the Kia Sportage GT-Line — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c033",
+    "brand": "Kia",
+    "model": "Sorento SX",
+    "year": 2023,
+    "category": "SUV",
+    "price": 40900000,
+    "currency": "NGN",
+    "horsepower": 228,
+    "engine": "3.6L V6",
+    "transmission": "8-Speed Automatic",
+    "fuel": "Petrol",
+    "mileage": "1,500 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/kia/sorento.jpg"
+    ],
+    "features": [
+      "Adaptive Cruise Control",
+      "360 Camera",
+      "Off-Road Drive Modes",
+      "Panoramic Sunroof",
+      "Heated & Ventilated Seats"
+    ],
+    "warrantyId": "w004",
+    "financeId": "f001",
+    "description": "Bold design, dependable engineering meets suv versatility in the Kia Sorento SX — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c034",
+    "brand": "Kia",
+    "model": "Stinger GT",
+    "year": 2023,
+    "category": "Sports",
+    "price": 65100000,
+    "currency": "NGN",
+    "horsepower": 556,
+    "engine": "4.0L Twin-Turbo V8",
+    "transmission": "7-Speed DCT",
+    "fuel": "Petrol",
+    "mileage": "1,500 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/kia/stinger.jpg"
+    ],
+    "features": [
+      "Carbon Fiber Roof",
+      "Torque Vectoring AWD",
+      "Performance Exhaust",
+      "Sport Bucket Seats",
+      "Launch Control"
+    ],
+    "warrantyId": "w004",
+    "financeId": "f002",
+    "description": "Bold design, dependable engineering meets sports versatility in the Kia Stinger GT — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c035",
+    "brand": "Kia",
+    "model": "K5 GT-Line",
+    "year": 2024,
+    "category": "Sedan",
+    "price": 34300000,
+    "currency": "NGN",
+    "horsepower": 243,
+    "engine": "3.6L V6",
+    "transmission": "7-Speed DCT",
+    "fuel": "Petrol",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/kia/k5.jpg"
+    ],
+    "features": [
+      "Blind-Spot Monitoring",
+      "Leather Upholstery",
+      "Wireless Apple CarPlay",
+      "Keyless Entry",
+      "Premium Sound System"
+    ],
+    "warrantyId": "w004",
+    "financeId": "f003",
+    "description": "Bold design, dependable engineering meets sedan versatility in the Kia K5 GT-Line — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c036",
+    "brand": "Kia",
+    "model": "EV6 GT-Line",
+    "year": 2024,
+    "category": "Electric",
+    "price": 62500000,
+    "currency": "NGN",
+    "horsepower": 346,
+    "engine": "Single-Motor Electric RWD",
+    "transmission": "Single-Speed Automatic",
+    "fuel": "Electric",
+    "mileage": "850 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/kia/ev6.jpg"
+    ],
+    "features": [
+      "Heat Pump Climate System",
+      "One-Pedal Driving",
+      "Over-the-Air Updates",
+      "Fast DC Charging",
+      "Digital Cockpit"
+    ],
+    "warrantyId": "w004",
+    "financeId": "f001",
+    "description": "Bold design, dependable engineering meets electric versatility in the Kia EV6 GT-Line — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c037",
+    "brand": "Kia",
+    "model": "EV9 GT-Line",
+    "year": 2024,
+    "category": "Electric",
+    "price": 46600000,
+    "currency": "NGN",
+    "horsepower": 229,
+    "engine": "Dual-Motor Electric AWD",
+    "transmission": "Single-Speed Automatic",
+    "fuel": "Electric",
+    "mileage": "1,500 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/kia/ev9.jpg"
+    ],
+    "features": [
+      "Heat Pump Climate System",
+      "One-Pedal Driving",
+      "Fast DC Charging",
+      "Digital Cockpit",
+      "Regenerative Braking"
+    ],
+    "warrantyId": "w004",
+    "financeId": "f002",
+    "description": "Bold design, dependable engineering meets electric versatility in the Kia EV9 GT-Line — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c038",
+    "brand": "Kia",
+    "model": "Niro Hybrid",
+    "year": 2024,
+    "category": "Hybrid",
+    "price": 39700000,
+    "currency": "NGN",
+    "horsepower": 352,
+    "engine": "2.5L Hybrid Inline-4",
+    "transmission": "8-Speed Automatic",
+    "fuel": "Petrol-Electric Hybrid",
+    "mileage": "1,500 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/kia/niro.jpg"
+    ],
+    "features": [
+      "Hybrid Battery Warranty",
+      "EV-Only Drive Mode",
+      "Regenerative Braking",
+      "Fuel Economy Display",
+      "Adaptive Cruise Control"
+    ],
+    "warrantyId": "w004",
+    "financeId": "f003",
+    "description": "Bold design, dependable engineering meets hybrid versatility in the Kia Niro Hybrid — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c039",
+    "brand": "Jeep",
+    "model": "Wrangler Rubicon",
+    "year": 2024,
+    "category": "SUV",
+    "price": 32600000,
+    "currency": "NGN",
+    "horsepower": 352,
+    "engine": "2.0L Turbocharged Inline-4",
+    "transmission": "7-Speed DCT",
+    "fuel": "Petrol",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/jeep/wrangler.jpg"
+    ],
+    "features": [
+      "Adaptive Cruise Control",
+      "Panoramic Sunroof",
+      "360 Camera",
+      "Three-Row Seating",
+      "Heated & Ventilated Seats"
+    ],
+    "warrantyId": "w003",
+    "financeId": "f001",
+    "description": "Legendary go-anywhere capability meets suv versatility in the Jeep Wrangler Rubicon — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c040",
+    "brand": "Jeep",
+    "model": "Compass Limited",
+    "year": 2024,
+    "category": "SUV",
+    "price": 63100000,
+    "currency": "NGN",
+    "horsepower": 260,
+    "engine": "2.5L Inline-4",
+    "transmission": "6-Speed Automatic",
+    "fuel": "Petrol",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/jeep/compass.jpg"
+    ],
+    "features": [
+      "360 Camera",
+      "Three-Row Seating",
+      "Off-Road Drive Modes",
+      "Adaptive Cruise Control",
+      "Heated & Ventilated Seats"
+    ],
+    "warrantyId": "w003",
+    "financeId": "f002",
+    "description": "Legendary go-anywhere capability meets suv versatility in the Jeep Compass Limited — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c041",
+    "brand": "Jeep",
+    "model": "Grand Cherokee 4xe",
+    "year": 2024,
+    "category": "Hybrid",
+    "price": 48100000,
+    "currency": "NGN",
+    "horsepower": 347,
+    "engine": "2.5L Hybrid Inline-4",
+    "transmission": "6-Speed Automatic",
+    "fuel": "Petrol-Electric Hybrid",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/jeep/grand-cherokee.jpg"
+    ],
+    "features": [
+      "Regenerative Braking",
+      "Eco Drive Mode",
+      "Adaptive Cruise Control",
+      "Fuel Economy Display",
+      "Hybrid Battery Warranty"
+    ],
+    "warrantyId": "w003",
+    "financeId": "f003",
+    "description": "Legendary go-anywhere capability meets hybrid versatility in the Jeep Grand Cherokee 4xe — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c042",
+    "brand": "Jeep",
+    "model": "Grand Wagoneer",
+    "year": 2024,
+    "category": "Luxury",
+    "price": 104300000,
+    "currency": "NGN",
+    "horsepower": 504,
+    "engine": "3.0L Turbo Inline-6 Mild-Hybrid",
+    "transmission": "8-Speed Automatic",
+    "fuel": "Petrol",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/jeep/grand-wagoneer.jpg"
+    ],
+    "features": [
+      "Executive Rear Seating",
+      "Bespoke Interior Trim",
+      "Massage Seats",
+      "Night Vision Assist",
+      "Rear Entertainment System"
+    ],
+    "warrantyId": "w003",
+    "financeId": "f001",
+    "description": "Legendary go-anywhere capability meets luxury versatility in the Jeep Grand Wagoneer — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c043",
+    "brand": "Jeep",
+    "model": "Cherokee Trailhawk",
+    "year": 2023,
+    "category": "SUV",
+    "price": 57400000,
+    "currency": "NGN",
+    "horsepower": 393,
+    "engine": "2.0L Turbocharged Inline-4",
+    "transmission": "8-Speed Automatic",
+    "fuel": "Petrol",
+    "mileage": "1,500 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/jeep/cherokee.jpg"
+    ],
+    "features": [
+      "Off-Road Drive Modes",
+      "Three-Row Seating",
+      "Panoramic Sunroof",
+      "Heated & Ventilated Seats",
+      "360 Camera"
+    ],
+    "warrantyId": "w003",
+    "financeId": "f002",
+    "description": "Legendary go-anywhere capability meets suv versatility in the Jeep Cherokee Trailhawk — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c044",
+    "brand": "Jeep",
+    "model": "Renegade Sport",
+    "year": 2023,
+    "category": "SUV",
+    "price": 45700000,
+    "currency": "NGN",
+    "horsepower": 209,
+    "engine": "2.5L Inline-4",
+    "transmission": "6-Speed Automatic",
+    "fuel": "Petrol",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/jeep/renegade.jpg"
+    ],
+    "features": [
+      "Off-Road Drive Modes",
+      "Heated & Ventilated Seats",
+      "360 Camera",
+      "Adaptive Cruise Control",
+      "Three-Row Seating"
+    ],
+    "warrantyId": "w003",
+    "financeId": "f003",
+    "description": "Legendary go-anywhere capability meets suv versatility in the Jeep Renegade Sport — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c045",
+    "brand": "Suzuki",
+    "model": "Vitara GLX",
+    "year": 2024,
+    "category": "SUV",
+    "price": 51000000,
+    "currency": "NGN",
+    "horsepower": 232,
+    "engine": "2.0L Turbocharged Inline-4",
+    "transmission": "6-Speed Automatic",
+    "fuel": "Petrol",
+    "mileage": "2,200 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/suzuki/vitara.jpg"
+    ],
+    "features": [
+      "Off-Road Drive Modes",
+      "Three-Row Seating",
+      "Adaptive Cruise Control",
+      "360 Camera",
+      "Panoramic Sunroof"
+    ],
+    "warrantyId": "w006",
+    "financeId": "f001",
+    "description": "Efficient, dependable city mobility meets suv versatility in the Suzuki Vitara GLX — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c046",
+    "brand": "Suzuki",
+    "model": "Jimny",
+    "year": 2024,
+    "category": "SUV",
+    "price": 56400000,
+    "currency": "NGN",
+    "horsepower": 392,
+    "engine": "2.5L Inline-4",
+    "transmission": "6-Speed Automatic",
+    "fuel": "Petrol",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/suzuki/jimny.jpg"
+    ],
+    "features": [
+      "Panoramic Sunroof",
+      "Off-Road Drive Modes",
+      "Three-Row Seating",
+      "Heated & Ventilated Seats",
+      "360 Camera"
+    ],
+    "warrantyId": "w006",
+    "financeId": "f002",
+    "description": "Efficient, dependable city mobility meets suv versatility in the Suzuki Jimny — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c047",
+    "brand": "Suzuki",
+    "model": "Swift Sport",
+    "year": 2024,
+    "category": "Sedan",
+    "price": 32800000,
+    "currency": "NGN",
+    "horsepower": 229,
+    "engine": "2.0L Turbocharged Inline-4",
+    "transmission": "7-Speed DCT",
+    "fuel": "Petrol",
+    "mileage": "1,500 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/suzuki/swift.jpg"
+    ],
+    "features": [
+      "Leather Upholstery",
+      "Keyless Entry",
+      "Premium Sound System",
+      "Ambient Lighting",
+      "Blind-Spot Monitoring"
+    ],
+    "warrantyId": "w006",
+    "financeId": "f003",
+    "description": "Efficient, dependable city mobility meets sedan versatility in the Suzuki Swift Sport — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c048",
+    "brand": "Suzuki",
+    "model": "Grand Vitara",
+    "year": 2023,
+    "category": "SUV",
+    "price": 37900000,
+    "currency": "NGN",
+    "horsepower": 290,
+    "engine": "2.5L Inline-4",
+    "transmission": "6-Speed Automatic",
+    "fuel": "Petrol",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/suzuki/grand-vitara.jpg"
+    ],
+    "features": [
+      "Panoramic Sunroof",
+      "Three-Row Seating",
+      "Heated & Ventilated Seats",
+      "Off-Road Drive Modes",
+      "360 Camera"
+    ],
+    "warrantyId": "w006",
+    "financeId": "f001",
+    "description": "Efficient, dependable city mobility meets suv versatility in the Suzuki Grand Vitara — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c049",
+    "brand": "Suzuki",
+    "model": "Ciaz",
+    "year": 2023,
+    "category": "Sedan",
+    "price": 26400000,
+    "currency": "NGN",
+    "horsepower": 146,
+    "engine": "2.5L Inline-4",
+    "transmission": "7-Speed DCT",
+    "fuel": "Petrol",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/suzuki/ciaz.jpg"
+    ],
+    "features": [
+      "Premium Sound System",
+      "Blind-Spot Monitoring",
+      "Wireless Apple CarPlay",
+      "Leather Upholstery",
+      "Ambient Lighting"
+    ],
+    "warrantyId": "w006",
+    "financeId": "f002",
+    "description": "Efficient, dependable city mobility meets sedan versatility in the Suzuki Ciaz — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c050",
+    "brand": "Suzuki",
+    "model": "S-Presso",
+    "year": 2023,
+    "category": "Sedan",
+    "price": 18800000,
+    "currency": "NGN",
+    "horsepower": 165,
+    "engine": "2.0L Turbocharged Inline-4",
+    "transmission": "7-Speed DCT",
+    "fuel": "Petrol",
+    "mileage": "2,200 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/suzuki/s-presso.jpg"
+    ],
+    "features": [
+      "Ambient Lighting",
+      "Blind-Spot Monitoring",
+      "Wireless Apple CarPlay",
+      "Premium Sound System",
+      "Leather Upholstery"
+    ],
+    "warrantyId": "w006",
+    "financeId": "f003",
+    "description": "Efficient, dependable city mobility meets sedan versatility in the Suzuki S-Presso — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c051",
+    "brand": "Suzuki",
+    "model": "Ertiga",
+    "year": 2023,
+    "category": "SUV",
+    "price": 30600000,
+    "currency": "NGN",
+    "horsepower": 399,
+    "engine": "2.5L Inline-4",
+    "transmission": "8-Speed Automatic",
+    "fuel": "Petrol",
+    "mileage": "850 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/suzuki/ertiga.jpg"
+    ],
+    "features": [
+      "360 Camera",
+      "Off-Road Drive Modes",
+      "Adaptive Cruise Control",
+      "Heated & Ventilated Seats",
+      "Three-Row Seating"
+    ],
+    "warrantyId": "w006",
+    "financeId": "f001",
+    "description": "Efficient, dependable city mobility meets suv versatility in the Suzuki Ertiga — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c052",
+    "brand": "MG",
+    "model": "ZS",
+    "year": 2024,
+    "category": "SUV",
+    "price": 29600000,
+    "currency": "NGN",
+    "horsepower": 348,
+    "engine": "3.0L Turbocharged Inline-6",
+    "transmission": "6-Speed Automatic",
+    "fuel": "Petrol",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/mg/zs.jpg"
+    ],
+    "features": [
+      "Adaptive Cruise Control",
+      "Three-Row Seating",
+      "Heated & Ventilated Seats",
+      "Panoramic Sunroof",
+      "360 Camera"
+    ],
+    "warrantyId": "w005",
+    "financeId": "f002",
+    "description": "British heritage, modern technology meets suv versatility in the MG ZS — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c053",
+    "brand": "MG",
+    "model": "ZS EV",
+    "year": 2024,
+    "category": "Electric",
+    "price": 66200000,
+    "currency": "NGN",
+    "horsepower": 404,
+    "engine": "Dual-Motor Electric AWD",
+    "transmission": "Single-Speed Automatic",
+    "fuel": "Electric",
+    "mileage": "2,200 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/mg/zs-ev.jpg"
+    ],
+    "features": [
+      "One-Pedal Driving",
+      "Digital Cockpit",
+      "Fast DC Charging",
+      "Over-the-Air Updates",
+      "Regenerative Braking"
+    ],
+    "warrantyId": "w005",
+    "financeId": "f003",
+    "description": "British heritage, modern technology meets electric versatility in the MG ZS EV — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c054",
+    "brand": "MG",
+    "model": "MG5",
+    "year": 2023,
+    "category": "Sedan",
+    "price": 37500000,
+    "currency": "NGN",
+    "horsepower": 187,
+    "engine": "3.6L V6",
+    "transmission": "6-Speed Automatic",
+    "fuel": "Petrol",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/mg/mg5.jpg"
+    ],
+    "features": [
+      "Leather Upholstery",
+      "Premium Sound System",
+      "Blind-Spot Monitoring",
+      "Wireless Apple CarPlay",
+      "Ambient Lighting"
+    ],
+    "warrantyId": "w005",
+    "financeId": "f001",
+    "description": "British heritage, modern technology meets sedan versatility in the MG MG5 — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c055",
+    "brand": "MG",
+    "model": "MG6",
+    "year": 2023,
+    "category": "Sedan",
+    "price": 35200000,
+    "currency": "NGN",
+    "horsepower": 149,
+    "engine": "2.0L Turbocharged Inline-4",
+    "transmission": "6-Speed Automatic",
+    "fuel": "Petrol",
+    "mileage": "850 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/mg/mg6.jpg"
+    ],
+    "features": [
+      "Premium Sound System",
+      "Wireless Apple CarPlay",
+      "Ambient Lighting",
+      "Leather Upholstery",
+      "Keyless Entry"
+    ],
+    "warrantyId": "w005",
+    "financeId": "f002",
+    "description": "British heritage, modern technology meets sedan versatility in the MG MG6 — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c056",
+    "brand": "MG",
+    "model": "Cyberster",
+    "year": 2024,
+    "category": "Sports",
+    "price": 96100000,
+    "currency": "NGN",
+    "horsepower": 430,
+    "engine": "3.0L Twin-Turbo Inline-6",
+    "transmission": "8-Speed Tiptronic",
+    "fuel": "Petrol",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/mg/cyberster.jpg"
+    ],
+    "features": [
+      "Sport Bucket Seats",
+      "Carbon Fiber Roof",
+      "Launch Control",
+      "Torque Vectoring AWD",
+      "Adaptive Sport Suspension"
+    ],
+    "warrantyId": "w005",
+    "financeId": "f003",
+    "description": "British heritage, modern technology meets sports versatility in the MG Cyberster — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c057",
+    "brand": "MG",
+    "model": "Marvel R",
+    "year": 2024,
+    "category": "Electric",
+    "price": 52200000,
+    "currency": "NGN",
+    "horsepower": 459,
+    "engine": "Tri-Motor Electric AWD",
+    "transmission": "Single-Speed Automatic",
+    "fuel": "Electric",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/mg/marvel-r.jpg"
+    ],
+    "features": [
+      "Heat Pump Climate System",
+      "Over-the-Air Updates",
+      "Digital Cockpit",
+      "Regenerative Braking",
+      "One-Pedal Driving"
+    ],
+    "warrantyId": "w005",
+    "financeId": "f001",
+    "description": "British heritage, modern technology meets electric versatility in the MG Marvel R — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c058",
+    "brand": "BMW",
+    "model": "M3 Competition",
+    "year": 2024,
+    "category": "Sports",
+    "price": 88000000,
+    "currency": "NGN",
+    "horsepower": 503,
+    "engine": "3.0L Twin-Turbo Inline-6",
+    "transmission": "8-Speed M Steptronic",
+    "fuel": "Petrol",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/bmw/m3-competition.jpg"
+    ],
+    "features": [
+      "M Sport Differential",
+      "Adaptive M Suspension",
+      "Carbon Bucket Seats",
+      "Launch Control",
+      "M Compound Brakes"
+    ],
+    "warrantyId": "w001",
+    "financeId": "f002",
+    "description": "Precision German engineering meets sports versatility in the BMW M3 Competition — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c059",
+    "brand": "BMW",
+    "model": "3 Series 320i",
+    "year": 2023,
+    "category": "Sedan",
+    "price": 32500000,
+    "currency": "NGN",
+    "horsepower": 184,
+    "engine": "2.0L Turbocharged Inline-4",
+    "transmission": "8-Speed Automatic",
+    "fuel": "Petrol",
+    "mileage": "1,200 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/bmw/3-series.jpg"
+    ],
+    "features": [
+      "Leather Upholstery",
+      "Wireless Apple CarPlay",
+      "Ambient Lighting",
+      "Keyless Entry",
+      "M Sport Package"
+    ],
+    "warrantyId": "w001",
+    "financeId": "f001",
+    "description": "Precision German engineering meets sedan versatility in the BMW 3 Series 320i — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c060",
+    "brand": "BMW",
+    "model": "7 Series 740i",
+    "year": 2024,
+    "category": "Luxury",
+    "price": 118000000,
+    "currency": "NGN",
+    "horsepower": 375,
+    "engine": "3.0L Turbo Inline-6 Mild-Hybrid",
+    "transmission": "8-Speed Automatic",
+    "fuel": "Petrol",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/bmw/7-series.jpg"
+    ],
+    "features": [
+      "Executive Rear Seating",
+      "Massage Seats",
+      "Air Suspension",
+      "Rear Entertainment System",
+      "Night Vision Assist"
+    ],
+    "warrantyId": "w001",
+    "financeId": "f003",
+    "description": "BMW's flagship saloon — the 7 Series 740i pairs effortless power with a cabin engineered for chauffeur-driven comfort."
+  },
+  {
+    "id": "c061",
+    "brand": "BMW",
+    "model": "X1 xDrive28i",
+    "year": 2024,
+    "category": "SUV",
+    "price": 34000000,
+    "currency": "NGN",
+    "horsepower": 241,
+    "engine": "2.0L Turbocharged Inline-4",
+    "transmission": "7-Speed DCT",
+    "fuel": "Petrol",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/bmw/x1.jpg"
+    ],
+    "features": [
+      "Panoramic Sunroof",
+      "360 Camera",
+      "Adaptive Cruise Control",
+      "Heated Front Seats",
+      "Wireless Charging"
+    ],
+    "warrantyId": "w001",
+    "financeId": "f001",
+    "description": "BMW's compact luxury SUV — the X1 xDrive28i brings big-SUV technology into an agile, city-ready footprint."
+  },
+  {
+    "id": "c062",
+    "brand": "BMW",
+    "model": "XM",
+    "year": 2024,
+    "category": "Luxury",
+    "price": 135000000,
+    "currency": "NGN",
+    "horsepower": 644,
+    "engine": "4.4L Twin-Turbo V8 Plug-in Hybrid",
+    "transmission": "8-Speed Automatic",
+    "fuel": "Petrol-Electric Hybrid",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/bmw/xm.jpg"
+    ],
+    "features": [
+      "Bespoke Interior Trim",
+      "Executive Rear Seating",
+      "Air Suspension",
+      "Massage Seats",
+      "M Performance Exhaust"
+    ],
+    "warrantyId": "w001",
+    "financeId": "f003",
+    "description": "BMW M's first standalone model in decades — the XM combines plug-in hybrid power with an unmistakably bold luxury SUV silhouette."
+  },
+  {
+    "id": "c063",
+    "brand": "BMW",
+    "model": "i4 eDrive40",
+    "year": 2024,
+    "category": "Electric",
+    "price": 52000000,
+    "currency": "NGN",
+    "horsepower": 335,
+    "engine": "Single-Motor Electric RWD",
+    "transmission": "Single-Speed Automatic",
+    "fuel": "Electric",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/bmw/i4.jpg"
+    ],
+    "features": [
+      "Fast DC Charging",
+      "Regenerative Braking",
+      "Digital Cockpit",
+      "Over-the-Air Updates",
+      "Heat Pump Climate System"
+    ],
+    "warrantyId": "w001",
+    "financeId": "f002",
+    "description": "A Gran Coupe silhouette meets full-electric performance in the BMW i4 eDrive40, certified and ready at Carrio Motors."
+  },
+  {
+    "id": "c064",
+    "brand": "BMW",
+    "model": "iX xDrive50",
+    "year": 2024,
+    "category": "Electric",
+    "price": 78000000,
+    "currency": "NGN",
+    "horsepower": 516,
+    "engine": "Dual-Motor Electric AWD",
+    "transmission": "Single-Speed Automatic",
+    "fuel": "Electric",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/bmw/ix.jpg"
+    ],
+    "features": [
+      "Fast DC Charging",
+      "One-Pedal Driving",
+      "Panoramic Sunroof",
+      "Digital Cockpit",
+      "Over-the-Air Updates"
+    ],
+    "warrantyId": "w001",
+    "financeId": "f003",
+    "description": "BMW's electric flagship SUV — the iX xDrive50 pairs a striking design language with long-range all-electric capability."
+  },
+  {
+    "id": "c065",
+    "brand": "BMW",
+    "model": "Z4 Roadster sDrive30i",
+    "year": 2023,
+    "category": "Sports",
+    "price": 58000000,
+    "currency": "NGN",
+    "horsepower": 255,
+    "engine": "2.0L Turbocharged Inline-4",
+    "transmission": "8-Speed Automatic",
+    "fuel": "Petrol",
+    "mileage": "2,000 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/bmw/z4-roadster.jpg"
+    ],
+    "features": [
+      "Power Soft-Top",
+      "Adaptive Sport Suspension",
+      "Sport Bucket Seats",
+      "Launch Control",
+      "Harman Kardon Audio"
+    ],
+    "warrantyId": "w001",
+    "financeId": "f001",
+    "description": "A true open-top driver's car — the BMW Z4 Roadster sDrive30i blends classic proportions with modern turbocharged performance."
+  },
+  {
+    "id": "c066",
+    "brand": "Hyundai",
+    "model": "Accent",
+    "year": 2023,
+    "category": "Sedan",
+    "price": 19500000,
+    "currency": "NGN",
+    "horsepower": 120,
+    "engine": "1.6L Inline-4",
+    "transmission": "6-Speed Automatic",
+    "fuel": "Petrol",
+    "mileage": "1,800 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/hyundai/accent.jpg"
+    ],
+    "features": [
+      "Wireless Apple CarPlay",
+      "Keyless Entry",
+      "Blind-Spot Monitoring",
+      "Rear Camera",
+      "Bluetooth Audio"
+    ],
+    "warrantyId": "w004",
+    "financeId": "f001",
+    "description": "Award-winning value and refinement meets sedan versatility in the Hyundai Accent — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c067",
+    "brand": "Hyundai",
+    "model": "Azera (Grandeur)",
+    "year": 2024,
+    "category": "Luxury",
+    "price": 62000000,
+    "currency": "NGN",
+    "horsepower": 300,
+    "engine": "3.5L V6",
+    "transmission": "8-Speed Automatic",
+    "fuel": "Petrol",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/hyundai/azera.jpg"
+    ],
+    "features": [
+      "Executive Rear Seating",
+      "Massage Seats",
+      "Ambient Lighting",
+      "Bang & Olufsen Audio",
+      "Night Vision Assist"
+    ],
+    "warrantyId": "w004",
+    "financeId": "f003",
+    "description": "Hyundai's flagship saloon, sold as the Grandeur in its home market — the Azera brings near-luxury presence to the range."
+  },
+  {
+    "id": "c068",
+    "brand": "Hyundai",
+    "model": "Creta",
+    "year": 2023,
+    "category": "SUV",
+    "price": 27500000,
+    "currency": "NGN",
+    "horsepower": 148,
+    "engine": "2.0L Inline-4",
+    "transmission": "6-Speed Automatic",
+    "fuel": "Petrol",
+    "mileage": "2,400 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/hyundai/creta.jpg"
+    ],
+    "features": [
+      "Panoramic Sunroof",
+      "Rear Camera",
+      "Cruise Control",
+      "Alloy Wheels",
+      "Roof Rails"
+    ],
+    "warrantyId": "w004",
+    "financeId": "f001",
+    "description": "Award-winning value and refinement meets SUV versatility in the Hyundai Creta — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c069",
+    "brand": "Hyundai",
+    "model": "Kona",
+    "year": 2024,
+    "category": "SUV",
+    "price": 30500000,
+    "currency": "NGN",
+    "horsepower": 147,
+    "engine": "2.0L Inline-4",
+    "transmission": "8-Speed Automatic",
+    "fuel": "Petrol",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/hyundai/kona.jpg"
+    ],
+    "features": [
+      "Wireless Apple CarPlay",
+      "Blind-Spot Monitoring",
+      "Heated Front Seats",
+      "LED Headlights",
+      "Rear Camera"
+    ],
+    "warrantyId": "w004",
+    "financeId": "f001",
+    "description": "Award-winning value and refinement meets SUV versatility in the Hyundai Kona — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c070",
+    "brand": "Hyundai",
+    "model": "Ioniq 6",
+    "year": 2024,
+    "category": "Electric",
+    "price": 54000000,
+    "currency": "NGN",
+    "horsepower": 320,
+    "engine": "Dual-Motor Electric AWD",
+    "transmission": "Single-Speed Automatic",
+    "fuel": "Electric",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/hyundai/ioniq6.jpg"
+    ],
+    "features": [
+      "Fast DC Charging",
+      "Regenerative Braking",
+      "Digital Cockpit",
+      "Over-the-Air Updates",
+      "One-Pedal Driving"
+    ],
+    "warrantyId": "w004",
+    "financeId": "f002",
+    "description": "A streamliner-inspired electric sedan — the Hyundai Ioniq 6 pairs class-leading aerodynamics with long-range efficiency."
+  },
+  {
+    "id": "c071",
+    "brand": "Hyundai",
+    "model": "Venue",
+    "year": 2023,
+    "category": "SUV",
+    "price": 22000000,
+    "currency": "NGN",
+    "horsepower": 121,
+    "engine": "1.6L Inline-4",
+    "transmission": "6-Speed Automatic",
+    "fuel": "Petrol",
+    "mileage": "1,500 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/hyundai/venue.jpg"
+    ],
+    "features": [
+      "Wireless Apple CarPlay",
+      "Rear Camera",
+      "Keyless Entry",
+      "Alloy Wheels",
+      "Cruise Control"
+    ],
+    "warrantyId": "w004",
+    "financeId": "f001",
+    "description": "Hyundai's compact city crossover — the Venue brings efficient, easy-to-park versatility to the everyday commute."
+  },
+  {
+    "id": "c072",
+    "brand": "Hyundai",
+    "model": "Staria",
+    "year": 2023,
+    "category": "SUV",
+    "price": 46000000,
+    "currency": "NGN",
+    "horsepower": 190,
+    "engine": "2.2L Turbo-Diesel Inline-4",
+    "transmission": "8-Speed Automatic",
+    "fuel": "Petrol",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/hyundai/staria.jpg"
+    ],
+    "features": [
+      "Three-Row Seating",
+      "Captain's Chairs",
+      "360 Camera",
+      "Rear Entertainment System",
+      "Power Sliding Doors"
+    ],
+    "warrantyId": "w004",
+    "financeId": "f002",
+    "description": "A bold, spaceship-inspired people-mover — the Hyundai Staria seats up to eleven in genuine comfort."
+  },
+  {
+    "id": "c073",
+    "brand": "Kia",
+    "model": "Picanto",
+    "year": 2023,
+    "category": "Sedan",
+    "price": 15500000,
+    "currency": "NGN",
+    "horsepower": 83,
+    "engine": "1.2L Inline-4",
+    "transmission": "5-Speed Manual",
+    "fuel": "Petrol",
+    "mileage": "2,000 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/kia/picanto.jpg"
+    ],
+    "features": [
+      "Bluetooth Audio",
+      "Rear Parking Sensors",
+      "Manual AC",
+      "Alloy Wheels",
+      "Central Locking"
+    ],
+    "warrantyId": "w004",
+    "financeId": "f001",
+    "description": "Bold design, dependable engineering meets sedan versatility in the Kia Picanto — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c074",
+    "brand": "Kia",
+    "model": "Rio",
+    "year": 2023,
+    "category": "Sedan",
+    "price": 18000000,
+    "currency": "NGN",
+    "horsepower": 120,
+    "engine": "1.4L Inline-4",
+    "transmission": "6-Speed Automatic",
+    "fuel": "Petrol",
+    "mileage": "1,600 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/kia/rio.jpg"
+    ],
+    "features": [
+      "Wireless Apple CarPlay",
+      "Rear Camera",
+      "Cruise Control",
+      "Alloy Wheels",
+      "LED Daytime Running Lights"
+    ],
+    "warrantyId": "w004",
+    "financeId": "f001",
+    "description": "Bold design, dependable engineering meets sedan versatility in the Kia Rio — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c075",
+    "brand": "Kia",
+    "model": "Cerato",
+    "year": 2023,
+    "category": "Sedan",
+    "price": 24500000,
+    "currency": "NGN",
+    "horsepower": 201,
+    "engine": "1.6L Turbocharged Inline-4",
+    "transmission": "7-Speed DCT",
+    "fuel": "Petrol",
+    "mileage": "1,100 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/kia/cerato.jpg"
+    ],
+    "features": [
+      "Sport Bucket Seats",
+      "Wireless Apple CarPlay",
+      "LED Headlights",
+      "Rear Camera",
+      "Sport Exhaust Tips"
+    ],
+    "warrantyId": "w004",
+    "financeId": "f002",
+    "description": "Bold design, dependable engineering meets sedan versatility in the Kia Cerato GT — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c076",
+    "brand": "Audi",
+    "model": "A3",
+    "year": 2023,
+    "category": "Sedan",
+    "price": 26500000,
+    "currency": "NGN",
+    "horsepower": 148,
+    "engine": "1.4L TFSI Turbo",
+    "transmission": "7-Speed S tronic",
+    "fuel": "Petrol",
+    "mileage": "1,900 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/audi/a3.jpg"
+    ],
+    "features": [
+      "LED Headlights",
+      "MMI Touch",
+      "Wireless Apple CarPlay",
+      "Rear Camera",
+      "Alloy Wheels"
+    ],
+    "warrantyId": "w002",
+    "financeId": "f001",
+    "description": "Progressive quattro-driven design meets sedan versatility in the Audi A3 — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c077",
+    "brand": "Audi",
+    "model": "A5",
+    "year": 2024,
+    "category": "Sedan",
+    "price": 44000000,
+    "currency": "NGN",
+    "horsepower": 261,
+    "engine": "2.0L TFSI Turbo",
+    "transmission": "7-Speed S tronic",
+    "fuel": "Petrol",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/audi/a5.jpg"
+    ],
+    "features": [
+      "quattro AWD",
+      "MMI Touch Response",
+      "Valcona Leather",
+      "Matrix LED Headlights",
+      "Bang & Olufsen Audio"
+    ],
+    "warrantyId": "w002",
+    "financeId": "f002",
+    "description": "Progressive quattro-driven design meets sedan versatility in the Audi A5 — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c078",
+    "brand": "Audi",
+    "model": "A8",
+    "year": 2024,
+    "category": "Luxury",
+    "price": 122000000,
+    "currency": "NGN",
+    "horsepower": 335,
+    "engine": "3.0L TFSI V6",
+    "transmission": "8-Speed Tiptronic",
+    "fuel": "Petrol",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/audi/a8.jpg"
+    ],
+    "features": [
+      "Executive Rear Seating",
+      "Massage Seats",
+      "Air Suspension",
+      "Bang & Olufsen 3D Sound",
+      "Rear Entertainment System"
+    ],
+    "warrantyId": "w002",
+    "financeId": "f003",
+    "description": "Audi's flagship saloon — the A8 pairs quattro composure with a cabin engineered for chauffeur-driven comfort."
+  },
+  {
+    "id": "c079",
+    "brand": "Audi",
+    "model": "Q3",
+    "year": 2024,
+    "category": "SUV",
+    "price": 33000000,
+    "currency": "NGN",
+    "horsepower": 228,
+    "engine": "2.0L TFSI Turbo",
+    "transmission": "7-Speed S tronic",
+    "fuel": "Petrol",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/audi/q3.jpg"
+    ],
+    "features": [
+      "quattro AWD",
+      "Virtual Cockpit",
+      "Panoramic Sunroof",
+      "LED Headlights",
+      "Wireless Apple CarPlay"
+    ],
+    "warrantyId": "w002",
+    "financeId": "f001",
+    "description": "Progressive quattro-driven design meets SUV versatility in the Audi Q3 — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c080",
+    "brand": "Audi",
+    "model": "RS3",
+    "year": 2024,
+    "category": "Sports",
+    "price": 72000000,
+    "currency": "NGN",
+    "horsepower": 401,
+    "engine": "2.5L Turbo Inline-5",
+    "transmission": "7-Speed DCT",
+    "fuel": "Petrol",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/audi/rs3.jpg"
+    ],
+    "features": [
+      "quattro AWD",
+      "Torque Vectoring",
+      "RS Sport Exhaust",
+      "Carbon Fiber Trim",
+      "RS Bucket Seats"
+    ],
+    "warrantyId": "w002",
+    "financeId": "f002",
+    "description": "A pocket rocket with a five-cylinder soundtrack — the Audi RS3 delivers supercar-baiting pace in a compact footprint."
+  },
+  {
+    "id": "c081",
+    "brand": "Audi",
+    "model": "RS5",
+    "year": 2024,
+    "category": "Sports",
+    "price": 84000000,
+    "currency": "NGN",
+    "horsepower": 444,
+    "engine": "2.9L Twin-Turbo V6",
+    "transmission": "8-Speed Tiptronic",
+    "fuel": "Petrol",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/audi/rs5.jpg"
+    ],
+    "features": [
+      "quattro AWD",
+      "RS Sport Suspension",
+      "Carbon Fiber Roof",
+      "RS Sport Exhaust",
+      "Matrix LED Headlights"
+    ],
+    "warrantyId": "w002",
+    "financeId": "f002",
+    "description": "A grand tourer with real teeth — the Audi RS5 blends coupe elegance with twin-turbo V6 punch."
+  },
+  {
+    "id": "c082",
+    "brand": "Audi",
+    "model": "RS6 Avant",
+    "year": 2024,
+    "category": "Sports",
+    "price": 98000000,
+    "currency": "NGN",
+    "horsepower": 591,
+    "engine": "4.0L Twin-Turbo V8",
+    "transmission": "8-Speed Tiptronic",
+    "fuel": "Petrol",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/audi/rs6-avant.jpg"
+    ],
+    "features": [
+      "quattro AWD",
+      "Air Suspension",
+      "Carbon Fiber Trim",
+      "RS Sport Exhaust",
+      "Bang & Olufsen 3D Sound"
+    ],
+    "warrantyId": "w002",
+    "financeId": "f003",
+    "description": "The ultimate wagon — the Audi RS6 Avant hides supercar-grade V8 performance behind genuine load-lugging practicality."
+  },
+  {
+    "id": "c083",
+    "brand": "Audi",
+    "model": "Q8 e-tron",
+    "year": 2024,
+    "category": "Electric",
+    "price": 82000000,
+    "currency": "NGN",
+    "horsepower": 402,
+    "engine": "Dual-Motor Electric AWD",
+    "transmission": "Single-Speed Automatic",
+    "fuel": "Electric",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/audi/q8-e-tron.jpg"
+    ],
+    "features": [
+      "Fast DC Charging",
+      "Air Suspension",
+      "Matrix LED Headlights",
+      "Digital Cockpit",
+      "Regenerative Braking"
+    ],
+    "warrantyId": "w002",
+    "financeId": "f003",
+    "description": "Audi's flagship electric SUV — the Q8 e-tron pairs quattro all-wheel drive with long-range, luxury-grade efficiency."
+  },
+  {
+    "id": "c084",
+    "brand": "Audi",
+    "model": "A7",
+    "year": 2024,
+    "category": "Sedan",
+    "price": 68000000,
+    "currency": "NGN",
+    "horsepower": 335,
+    "engine": "3.0L TFSI V6",
+    "transmission": "7-Speed S tronic",
+    "fuel": "Petrol",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/audi/a7.jpg"
+    ],
+    "features": [
+      "quattro AWD",
+      "MMI Touch Response",
+      "Matrix LED Headlights",
+      "Valcona Leather",
+      "Bang & Olufsen 3D Sound"
+    ],
+    "warrantyId": "w002",
+    "financeId": "f002",
+    "description": "Progressive quattro-driven design meets Sportback elegance in the Audi A7 — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c085",
+    "brand": "Kia",
+    "model": "Seltos",
+    "year": 2024,
+    "category": "SUV",
+    "price": 29500000,
+    "currency": "NGN",
+    "horsepower": 195,
+    "engine": "1.6L Turbocharged Inline-4",
+    "transmission": "7-Speed DCT",
+    "fuel": "Petrol",
+    "mileage": "1,300 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/kia/seltos.jpg"
+    ],
+    "features": [
+      "Panoramic Sunroof",
+      "Wireless Apple CarPlay",
+      "Blind-Spot Monitoring",
+      "Bose Premium Audio",
+      "Heated Front Seats"
+    ],
+    "warrantyId": "w004",
+    "financeId": "f001",
+    "description": "Bold design, dependable engineering meets SUV versatility in the Kia Seltos — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c086",
+    "brand": "Kia",
+    "model": "Sonet",
+    "year": 2023,
+    "category": "SUV",
+    "price": 23000000,
+    "currency": "NGN",
+    "horsepower": 118,
+    "engine": "1.2L Inline-4",
+    "transmission": "6-Speed Automatic",
+    "fuel": "Petrol",
+    "mileage": "2,100 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/kia/sonet.jpg"
+    ],
+    "features": [
+      "Wireless Apple CarPlay",
+      "Rear Camera",
+      "Alloy Wheels",
+      "Cruise Control",
+      "LED DRLs"
+    ],
+    "warrantyId": "w004",
+    "financeId": "f001",
+    "description": "Bold design, dependable engineering meets SUV versatility in the Kia Sonet — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c087",
+    "brand": "Kia",
+    "model": "Carnival",
+    "year": 2024,
+    "category": "SUV",
+    "price": 51000000,
+    "currency": "NGN",
+    "horsepower": 290,
+    "engine": "3.5L V6",
+    "transmission": "8-Speed Automatic",
+    "fuel": "Petrol",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/kia/carnival.jpg"
+    ],
+    "features": [
+      "Three-Row Seating",
+      "Captain's Chairs",
+      "Power Sliding Doors",
+      "360 Camera",
+      "Rear Entertainment System"
+    ],
+    "warrantyId": "w004",
+    "financeId": "f002",
+    "description": "Kia's flagship people-mover — the Carnival pairs minivan practicality with genuine SUV road presence."
+  },
+  {
+    "id": "c088",
+    "brand": "Kia",
+    "model": "EV5",
+    "year": 2024,
+    "category": "Electric",
+    "price": 46000000,
+    "currency": "NGN",
+    "horsepower": 215,
+    "engine": "Single-Motor Electric RWD",
+    "transmission": "Single-Speed Automatic",
+    "fuel": "Electric",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/kia/ev5.jpg"
+    ],
+    "features": [
+      "Fast DC Charging",
+      "Regenerative Braking",
+      "Digital Cockpit",
+      "Vehicle-to-Load Power",
+      "Over-the-Air Updates"
+    ],
+    "warrantyId": "w004",
+    "financeId": "f001",
+    "description": "Kia's compact electric SUV — the EV5 brings dedicated-EV platform efficiency to a genuinely practical family footprint."
+  },
+  {
+    "id": "c090",
+    "brand": "Jeep",
+    "model": "Wagoneer",
+    "year": 2024,
+    "category": "Luxury",
+    "price": 96000000,
+    "currency": "NGN",
+    "horsepower": 392,
+    "engine": "5.7L V8",
+    "transmission": "8-Speed Automatic",
+    "fuel": "Petrol",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/jeep/wagoneer.jpg"
+    ],
+    "features": [
+      "Three-Row Seating",
+      "Quadra-Trac 4x4",
+      "Panoramic Sunroof",
+      "Heated & Ventilated Seats",
+      "McIntosh Audio"
+    ],
+    "warrantyId": "w003",
+    "financeId": "f003",
+    "description": "Legendary go-anywhere capability meets full-size luxury in the Jeep Wagoneer — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c091",
+    "brand": "Jeep",
+    "model": "Avenger",
+    "year": 2024,
+    "category": "SUV",
+    "price": 31000000,
+    "currency": "NGN",
+    "horsepower": 154,
+    "engine": "1.2L Turbo Hybrid",
+    "transmission": "6-Speed DCT",
+    "fuel": "Petrol-Electric Hybrid",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/jeep/avenger.jpg"
+    ],
+    "features": [
+      "Hybrid Drivetrain",
+      "Selec-Terrain Modes",
+      "Wireless Apple CarPlay",
+      "LED Headlights",
+      "Rear Camera"
+    ],
+    "warrantyId": "w003",
+    "financeId": "f001",
+    "description": "Jeep's compact European crossover — the Avenger brings efficient hybrid power to an unmistakably rugged silhouette."
+  },
+  {
+    "id": "c092",
+    "brand": "Suzuki",
+    "model": "Baleno",
+    "year": 2023,
+    "category": "Sedan",
+    "price": 17500000,
+    "currency": "NGN",
+    "horsepower": 89,
+    "engine": "1.2L Inline-4",
+    "transmission": "5-Speed Manual",
+    "fuel": "Petrol",
+    "mileage": "1,700 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/suzuki/baleno.jpg"
+    ],
+    "features": [
+      "LED Headlights",
+      "Rear Camera",
+      "Bluetooth Audio",
+      "Alloy Wheels",
+      "Keyless Entry"
+    ],
+    "warrantyId": "w006",
+    "financeId": "f001",
+    "description": "Efficient, dependable city mobility meets hatchback versatility in the Suzuki Baleno — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c093",
+    "brand": "Suzuki",
+    "model": "Dzire",
+    "year": 2023,
+    "category": "Sedan",
+    "price": 16800000,
+    "currency": "NGN",
+    "horsepower": 89,
+    "engine": "1.2L Inline-4",
+    "transmission": "5-Speed Manual",
+    "fuel": "Petrol",
+    "mileage": "1,400 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/suzuki/dzire.jpg"
+    ],
+    "features": [
+      "Rear Camera",
+      "Bluetooth Audio",
+      "Alloy Wheels",
+      "Keyless Entry",
+      "Dual Airbags"
+    ],
+    "warrantyId": "w006",
+    "financeId": "f001",
+    "description": "Efficient, dependable city mobility meets sedan versatility in the Suzuki Dzire — finished to Carrio Motors' certification standard."
+  },
+  {
+    "id": "c094",
+    "brand": "Suzuki",
+    "model": "Swift",
+    "year": 2023,
+    "category": "Sedan",
+    "price": 15500000,
+    "currency": "NGN",
+    "horsepower": 82,
+    "engine": "1.2L Dualjet",
+    "transmission": "Auto",
+    "fuel": "Petrol",
+    "mileage": "2,100 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/suzuki/swift.jpg"
+    ],
+    "features": [
+      "Touchscreen Infotainment",
+      "SmartPlay Studio",
+      "ABS with EBD",
+      "Reverse Parking Sensors",
+      "Keyless Go"
+    ],
+    "warrantyId": "w006",
+    "financeId": "f001",
+    "description": "A sporty, agile and efficient hatchback designed to elevate your everyday city drives."
+  },
+  {
+    "id": "c095",
+    "brand": "Suzuki",
+    "model": "Grand Vitara",
+    "year": 2024,
+    "category": "SUV",
+    "price": 34000000,
+    "currency": "NGN",
+    "horsepower": 103,
+    "engine": "1.5L Smart Hybrid",
+    "transmission": "6-Speed Automatic",
+    "fuel": "Hybrid",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/suzuki/grand-vitara.jpg"
+    ],
+    "features": [
+      "Panoramic Sunroof",
+      "360 View Camera",
+      "Wireless Charger",
+      "Head-Up Display",
+      "AllGrip AWD"
+    ],
+    "warrantyId": "w006",
+    "financeId": "f002",
+    "description": "The new Suzuki Grand Vitara is a modern hybrid SUV offering exceptional comfort and capability."
+  },
+  {
+    "id": "c096",
+    "brand": "Suzuki",
+    "model": "Jimny",
+    "year": 2024,
+    "category": "SUV",
+    "price": 38000000,
+    "currency": "NGN",
+    "horsepower": 101,
+    "engine": "1.5L 4-Cylinder",
+    "transmission": "4-Speed Automatic",
+    "fuel": "Petrol",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/suzuki/jimny.jpg"
+    ],
+    "features": [
+      "ALLGRIP PRO 4WD",
+      "Ladder Frame Chassis",
+      "LED Projector Headlamps",
+      "Touchscreen Navigation",
+      "Hill Descent Control"
+    ],
+    "warrantyId": "w006",
+    "financeId": "f003",
+    "description": "The legendary Suzuki Jimny is the ultimate compact off-roader, built for any adventure."
+  },
+  {
+    "id": "c097",
+    "brand": "Suzuki",
+    "model": "Vitara",
+    "year": 2023,
+    "category": "SUV",
+    "price": 28000000,
+    "currency": "NGN",
+    "horsepower": 118,
+    "engine": "1.6L VVT",
+    "transmission": "6-Speed Automatic",
+    "fuel": "Petrol",
+    "mileage": "4,200 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/suzuki/vitara.jpg"
+    ],
+    "features": [
+      "Panoramic Sunroof",
+      "LED Headlamps",
+      "Dual-Zone Climate Control",
+      "7-inch Display",
+      "Front and Rear Sensors"
+    ],
+    "warrantyId": "w006",
+    "financeId": "f001",
+    "description": "A stylish, reliable crossover SUV that blends urban luxury with outstanding efficiency."
+  },
+  {
+    "id": "c098",
+    "brand": "Suzuki",
+    "model": "Ciaz",
+    "year": 2023,
+    "category": "Sedan",
+    "price": 19500000,
+    "currency": "NGN",
+    "horsepower": 103,
+    "engine": "1.5L K15B",
+    "transmission": "4-Speed Automatic",
+    "fuel": "Petrol",
+    "mileage": "800 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/suzuki/ciaz.jpg"
+    ],
+    "features": [
+      "SmartPlay Infotainment",
+      "Leather Seats",
+      "Automatic AC",
+      "Rear AC Vents",
+      "Cruise Control"
+    ],
+    "warrantyId": "w006",
+    "financeId": "f002",
+    "description": "Elegant design and spacious luxury define the Suzuki Ciaz sedan — a smooth, comfortable drive."
+  },
+  {
+    "id": "c099",
+    "brand": "Suzuki",
+    "model": "Ertiga",
+    "year": 2024,
+    "category": "Sedan",
+    "price": 24500000,
+    "currency": "NGN",
+    "horsepower": 103,
+    "engine": "1.5L Smart Hybrid",
+    "transmission": "4-Speed Automatic",
+    "fuel": "Hybrid",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/suzuki/ertiga.jpg"
+    ],
+    "features": [
+      "7-Seater Configuration",
+      "Roof Mounted AC Vents",
+      "Push Button Start",
+      "Smart Hybrid Tech",
+      "Dual Airbags"
+    ],
+    "warrantyId": "w006",
+    "financeId": "f001",
+    "description": "A premium 7-seater MPV engineered for family comfort, reliability, and excellent fuel economy."
+  },
+  {
+    "id": "c100",
+    "brand": "Suzuki",
+    "model": "S-Presso",
+    "year": 2023,
+    "category": "Sedan",
+    "price": 11500000,
+    "currency": "NGN",
+    "horsepower": 67,
+    "engine": "1.0L K10C",
+    "transmission": "5-Speed Manual",
+    "fuel": "Petrol",
+    "mileage": "3,400 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/suzuki/s-presso.jpg"
+    ],
+    "features": [
+      "Digital Speedometer",
+      "Front Power Windows",
+      "Touchscreen Infotainment",
+      "High Ground Clearance",
+      "Rear Parking Sensors"
+    ],
+    "warrantyId": "w006",
+    "financeId": "f001",
+    "description": "The Suzuki S-Presso offers high ground clearance and compact agility for smart city driving."
+  },
+  {
+    "id": "c101",
+    "brand": "MG",
+    "model": "Cyberster",
+    "year": 2024,
+    "category": "Electric",
+    "price": 85000000,
+    "currency": "NGN",
+    "horsepower": 536,
+    "engine": "Dual-Motor Electric AWD",
+    "transmission": "Single-Speed Automatic",
+    "fuel": "Electric",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/mg/cyberster.jpg"
+    ],
+    "features": [
+      "Scissor Doors",
+      "Electric Folding Soft-Top",
+      "Triple Screen Cockpit",
+      "Active Aero Wing",
+      "Brembo Brakes"
+    ],
+    "warrantyId": "w006",
+    "financeId": "f003",
+    "description": "The MG Cyberster is a groundbreaking all-electric roadster combining heritage speedster styling with future performance."
+  },
+  {
+    "id": "c102",
+    "brand": "MG",
+    "model": "HS",
+    "year": 2024,
+    "category": "SUV",
+    "price": 38500000,
+    "currency": "NGN",
+    "horsepower": 168,
+    "engine": "1.5L Turbocharged 4-Cylinder",
+    "transmission": "7-Speed DCT",
+    "fuel": "Petrol",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/mg/hs.jpg"
+    ],
+    "features": [
+      "10.1-inch Touchscreen",
+      "Leather Sports Seats",
+      "Panoramic Sunroof",
+      "Dual-Zone AC",
+      "MG Pilot Safety Suite"
+    ],
+    "warrantyId": "w006",
+    "financeId": "f002",
+    "description": "A premium crossover SUV delivering refined cabin materials, smart design, and robust safety tech."
+  },
+  {
+    "id": "c103",
+    "brand": "MG",
+    "model": "Marvel R",
+    "year": 2024,
+    "category": "Electric",
+    "price": 62000000,
+    "currency": "NGN",
+    "horsepower": 288,
+    "engine": "Tri-Motor Electric AWD",
+    "transmission": "Single-Speed Automatic",
+    "fuel": "Electric",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/mg/marvel-r.jpg"
+    ],
+    "features": [
+      "19.4-inch Console Touchscreen",
+      "Tri-Motor AWD System",
+      "Bose Surround Sound",
+      "Wireless Phone Charger",
+      "Hands-Free Tailgate"
+    ],
+    "warrantyId": "w006",
+    "financeId": "f003",
+    "description": "An all-electric flagship SUV built for the modern era, packed with futuristic digital tech."
+  },
+  {
+    "id": "c104",
+    "brand": "MG",
+    "model": "MG5",
+    "year": 2023,
+    "category": "Sedan",
+    "price": 22000000,
+    "currency": "NGN",
+    "horsepower": 113,
+    "engine": "1.5L VTi-TECH",
+    "transmission": "CVT",
+    "fuel": "Petrol",
+    "mileage": "1,200 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/mg/mg5.jpg"
+    ],
+    "features": [
+      "10.1-inch Infotainment Screen",
+      "Electric Sunroof",
+      "360 Camera",
+      "Keyless Entry & Start",
+      "LED DRLs"
+    ],
+    "warrantyId": "w006",
+    "financeId": "f001",
+    "description": "A stylish, tech-loaded sedan offering unmatched cabin space, high fuel efficiency, and everyday comfort."
+  },
+  {
+    "id": "c105",
+    "brand": "MG",
+    "model": "MG6",
+    "year": 2023,
+    "category": "Sedan",
+    "price": 27500000,
+    "currency": "NGN",
+    "horsepower": 160,
+    "engine": "1.5L Turbocharged Inline-4",
+    "transmission": "7-Speed DCT",
+    "fuel": "Petrol",
+    "mileage": "900 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/mg/mg6.jpg"
+    ],
+    "features": [
+      "Red Contrast Leather Trim",
+      "Active Exhaust Valve",
+      "Paddle Shifters",
+      "Sport Mode Toggle",
+      "Dual Projector LED Headlamps"
+    ],
+    "warrantyId": "w006",
+    "financeId": "f002",
+    "description": "A dynamic fastback sedan blending performance, high specs, and bold racing lines."
+  },
+  {
+    "id": "c106",
+    "brand": "MG",
+    "model": "ZS EV",
+    "year": 2024,
+    "category": "Electric",
+    "price": 43000000,
+    "currency": "NGN",
+    "horsepower": 174,
+    "engine": "Single-Motor Electric FWD",
+    "transmission": "Single-Speed Automatic",
+    "fuel": "Electric",
+    "mileage": "Brand New",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/mg/zs-ev.jpg"
+    ],
+    "features": [
+      "10.1-inch Screen",
+      "Fast DC Charging",
+      "Panoramic Sunroof",
+      "Regenerative Braking Modes",
+      "360 Parking Assist"
+    ],
+    "warrantyId": "w006",
+    "financeId": "f001",
+    "description": "The perfect family-sized electric crossover — quiet, spacious, and highly practical."
+  },
+  {
+    "id": "c107",
+    "brand": "MG",
+    "model": "ZS",
+    "year": 2023,
+    "category": "SUV",
+    "price": 28500000,
+    "currency": "NGN",
+    "horsepower": 118,
+    "engine": "1.5L NSE Major",
+    "transmission": "CVT",
+    "fuel": "Petrol",
+    "mileage": "2,400 km",
+    "dealer": "Carrio Motors",
+    "location": "Ibeju-Lekki, Lagos",
+    "images": [
+      "/images/cars/mg/zs.jpg"
+    ],
+    "features": [
+      "Panoramic Skyroof",
+      "Rear Parking Camera",
+      "Apple CarPlay & Android Auto",
+      "Cruise Control",
+      "8-inch Touchscreen"
+    ],
+    "warrantyId": "w006",
+    "financeId": "f001",
+    "description": "A stylish, reliable compact SUV built for value, safety, and everyday adventure."
+  }
+]

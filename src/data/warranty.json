@@ -1,0 +1,8 @@
+[
+  { "id": "w001", "manufacturer": "BMW", "coverage": "Full Powertrain & Electrical", "duration": "3 Years / 100,000 km", "details": "Comprehensive coverage on engine, transmission and core electrical systems, backed by certified BMW technicians." },
+  { "id": "w002", "manufacturer": "Audi", "coverage": "Full Powertrain & Electrical", "duration": "3 Years / 100,000 km", "details": "Audi Advantage warranty covering major mechanical and electronic components with genuine parts guarantee." },
+  { "id": "w003", "manufacturer": "Jeep", "coverage": "Powertrain", "duration": "5 Years / 100,000 km", "details": "Extended powertrain protection covering engine, transmission and drivetrain for total peace of mind off-road or on." },
+  { "id": "w004", "manufacturer": "Hyundai / Kia", "coverage": "Full Vehicle", "duration": "5 Years / 150,000 km", "details": "Industry-leading bumper-to-bumper coverage across the full vehicle, including electrical and infotainment systems." },
+  { "id": "w005", "manufacturer": "MG", "coverage": "Full Vehicle", "duration": "4 Years / 120,000 km", "details": "Comprehensive coverage backed by Carrio Motors' certified service centre and genuine parts supply chain." },
+  { "id": "w006", "manufacturer": "Suzuki", "coverage": "Full Vehicle", "duration": "3 Years / 100,000 km", "details": "Standard Suzuki manufacturer warranty covering engine, transmission and electrical systems, serviced at Carrio Motors." }
+]

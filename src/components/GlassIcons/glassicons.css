@@ -1,0 +1,24 @@
+.glassicon-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 20px;
+}
+.glassicon-card {
+  padding: 28px 24px;
+  border-radius: var(--radius-md);
+  background: rgba(255,255,255,0.03);
+  border: 1px solid rgba(255,255,255,0.08);
+  backdrop-filter: blur(14px);
+  transition: transform var(--transition-luxury), box-shadow var(--transition-luxury);
+}
+.glassicon-card:hover { transform: translateY(-5px); box-shadow: 0 20px 40px -20px rgba(45,212,191,0.3); }
+.glassicon-badge {
+  width: 52px; height: 52px;
+  border-radius: 16px;
+  display: flex; align-items: center; justify-content: center;
+  background: linear-gradient(135deg, rgba(45,212,191,0.25), rgba(45,212,191,0.05));
+  color: var(--color-gold);
+  margin-bottom: 18px;
+}
+.glassicon-card h4 { font-size: 1rem; margin-bottom: 8px; }
+.glassicon-card p { color: var(--color-silver); font-size: 0.85rem; line-height: 1.6; }

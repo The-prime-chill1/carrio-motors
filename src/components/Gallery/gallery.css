@@ -1,0 +1,102 @@
+.gallery-filters { margin-bottom: 36px; }
+
+.gallery-masonry {
+  columns: 3 220px;
+  column-gap: 20px;
+}
+
+.gallery-item {
+  break-inside: avoid;
+  margin-bottom: 20px;
+  position: relative;
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  cursor: pointer;
+  border: 1px solid rgba(255,255,255,0.08);
+}
+.gallery-item img {
+  width: 100%;
+  display: block;
+  transition: transform 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.gallery-item:hover img { transform: scale(1.08); }
+
+.gallery-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, transparent 40%, rgba(0,0,0,0.85) 100%);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 16px;
+  opacity: 0;
+  transition: opacity var(--transition-luxury);
+}
+.gallery-item:hover .gallery-overlay { opacity: 1; }
+.gallery-cat {
+  color: var(--color-gold);
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+.gallery-overlay p { color: var(--color-white); font-size: 0.82rem; line-height: 1.4; }
+
+/* Lightbox */
+.lightbox-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 2100;
+  background: rgba(0,0,0,0.9);
+  backdrop-filter: blur(8px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+}
+.lightbox-figure { max-width: 900px; max-height: 85vh; text-align: center; }
+.lightbox-figure img { max-width: 100%; max-height: 75vh; border-radius: var(--radius-md); object-fit: contain; }
+.lightbox-figure figcaption { color: var(--color-silver); margin-top: 16px; font-size: 0.9rem; }
+
+.lightbox-close {
+  position: absolute;
+  top: 24px;
+  right: 24px;
+  color: var(--color-white);
+  background: rgba(255,255,255,0.08);
+  border-radius: 50%;
+  width: 42px;
+  height: 42px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.lightbox-nav {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--color-white);
+  background: rgba(255,255,255,0.08);
+  border-radius: 50%;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background var(--transition-luxury);
+}
+.lightbox-nav:hover { background: rgba(45,212,191,0.25); }
+.lightbox-prev { left: 20px; }
+.lightbox-next { right: 20px; }
+
+@media (max-width: 700px) {
+  .gallery-masonry { columns: 2 160px; }
+  .lightbox-nav { width: 40px; height: 40px; }
+  .lightbox-prev { left: 8px; }
+  .lightbox-next { right: 8px; }
+}
+
+@media (max-width: 420px) {
+  .gallery-masonry { columns: 1; }
+}

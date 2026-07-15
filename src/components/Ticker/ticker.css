@@ -1,0 +1,74 @@
+.ticker {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 900;
+  background: rgba(11,11,11,0.94);
+  border-top: 1px solid rgba(45,212,191,0.25);
+  backdrop-filter: blur(10px);
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+
+.ticker-live {
+  display: flex;
+  gap: 18px;
+  padding: 10px 18px;
+  background: rgba(45,212,191,0.08);
+  border-right: 1px solid rgba(45,212,191,0.25);
+  flex-shrink: 0;
+}
+.ticker-live span {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.75rem;
+  color: var(--color-gold);
+  white-space: nowrap;
+}
+
+.ticker-scroll { flex: 1; overflow: hidden; }
+.ticker-track {
+  display: flex;
+  width: max-content;
+  animation: tickerScroll 35s linear infinite;
+}
+.ticker-item {
+  color: var(--color-silver);
+  font-size: 0.82rem;
+  letter-spacing: 0.3px;
+  white-space: nowrap;
+  padding: 10px 40px;
+  border-right: 1px solid rgba(45,212,191,0.3);
+}
+@keyframes tickerScroll {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+
+@media (max-width: 700px) {
+  .ticker-live span:nth-child(3) { display: none; }
+}
+
+@media (max-width: 480px) {
+  .ticker-live { gap: 10px; padding: 8px 12px; }
+  .ticker-live span { font-size: 0.68rem; }
+  .ticker-item { padding: 8px 24px; font-size: 0.76rem; }
+}
+
+@media (max-width: 360px) {
+  .ticker-live span:nth-child(1) { display: none; }
+}
+
+/* Below tablet: ticker becomes a normal in-flow strip at the true end of the
+   page (after the footer) instead of a fixed bar that overlaps content on
+   short mobile viewports. */
+@media (max-width: 768px) {
+  .ticker {
+    position: static;
+    border-top: 1px solid rgba(45,212,191,0.25);
+  }
+  main { padding-bottom: 0; }
+}

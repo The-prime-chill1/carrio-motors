@@ -1,0 +1,51 @@
+[
+  {
+    "id": "bmw",
+    "name": "BMW",
+    "tagline": "The Ultimate Driving Machine",
+    "description": "Precision German engineering meets dynamic performance. BMW models at Carrio Motors deliver the perfect balance of luxury, power and driving pleasure.",
+    "featuredModels": ["BMW X5", "BMW 5 Series", "BMW X7 M60i"]
+  },
+  {
+    "id": "audi",
+    "name": "Audi",
+    "tagline": "Vorsprung durch Technik",
+    "description": "Progressive design and quattro all-wheel-drive technology define the Audi lineup — refined, intelligent and effortlessly premium.",
+    "featuredModels": ["Audi Q7", "Audi A6", "Audi Q8"]
+  },
+  {
+    "id": "hyundai",
+    "name": "Hyundai",
+    "tagline": "New Thinking. New Possibilities.",
+    "description": "Hyundai combines award-winning design, advanced safety and reliable performance for a smarter everyday drive.",
+    "featuredModels": ["Hyundai Tucson", "Hyundai Santa Fe", "Hyundai Palisade"]
+  },
+  {
+    "id": "kia",
+    "name": "Kia",
+    "tagline": "Movement That Inspires",
+    "description": "Bold, futuristic styling paired with dependable engineering — Kia's modern lineup is built for the road ahead.",
+    "featuredModels": ["Kia Sportage", "Kia Telluride", "Kia K5"]
+  },
+  {
+    "id": "jeep",
+    "name": "Jeep",
+    "tagline": "Go Anywhere. Do Anything.",
+    "description": "Legendary 4x4 capability and rugged American design, engineered for adventure on any terrain.",
+    "featuredModels": ["Jeep Grand Cherokee", "Jeep Wrangler", "Jeep Compass"]
+  },
+  {
+    "id": "suzuki",
+    "name": "Suzuki",
+    "tagline": "Way of Life!",
+    "description": "Efficient, compact and dependable — Suzuki vehicles offer smart mobility for the modern city driver.",
+    "featuredModels": ["Suzuki Vitara", "Suzuki Swift", "Suzuki S-Presso"]
+  },
+  {
+    "id": "mg",
+    "name": "MG",
+    "tagline": "Rewrite the Rules",
+    "description": "A century of British heritage reimagined for the modern era, blending striking design with smart technology.",
+    "featuredModels": ["MG ZS", "MG HS", "MG5"]
+  }
+]

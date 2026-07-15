@@ -1,0 +1,37 @@
+.visitor-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 7px 14px;
+  border-radius: 999px;
+  background: rgba(45, 212, 191, 0.08);
+  border: 1px solid rgba(45, 212, 191, 0.3);
+  color: var(--color-gold);
+  font-size: 0.74rem;
+  font-weight: 600;
+  white-space: nowrap;
+  letter-spacing: 0.3px;
+  user-select: none;
+}
+
+/* Pulsing live dot */
+.visitor-live-dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: #22c55e;
+  flex-shrink: 0;
+  animation: visitor-pulse 2.2s ease infinite;
+}
+@keyframes visitor-pulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(34, 197, 94, 0.6); }
+  50%       { box-shadow: 0 0 0 5px rgba(34, 197, 94, 0); }
+}
+
+.visitor-count { font-weight: 700; }
+
+.visitor-label {
+  color: rgba(229, 231, 235, 0.5);
+  font-weight: 400;
+  font-size: 0.68rem;
+}
