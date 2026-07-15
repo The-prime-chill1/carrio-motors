@@ -1,0 +1,273 @@
+/* ── Warranty & Finance Section ── */
+.warranty-section {
+  background: radial-gradient(ellipse at 20% 50%, #111520 0%, #0A0A0D 70%);
+  position: relative;
+  overflow: hidden;
+  padding: 100px 6%;
+}
+
+.warranty-glow {
+  position: absolute;
+  left: -10%;
+  top: 10%;
+  width: 50%;
+  height: 60%;
+  background: radial-gradient(circle, rgba(45, 212, 191, 0.08) 0%, transparent 70%);
+  filter: blur(60px);
+  pointer-events: none;
+}
+
+.warranty-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  position: relative;
+  z-index: 1;
+}
+
+/* Header & Tabs */
+.warranty-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.ownership-tabs {
+  display: inline-flex;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.07);
+  border-radius: 999px;
+  padding: 5px;
+  gap: 4px;
+  margin-top: 24px;
+  backdrop-filter: blur(10px);
+  max-width: 100%;
+}
+
+.ownership-tab {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 12px 24px;
+  font-size: 0.86rem;
+  font-weight: 500;
+  border-radius: 999px;
+  color: rgba(229, 231, 235, 0.65);
+  cursor: pointer;
+  background: transparent;
+  border: none;
+  transition: all var(--transition-fast);
+  white-space: nowrap;
+}
+
+.ownership-tab:hover {
+  color: var(--color-white);
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.ownership-tab.active {
+  background: linear-gradient(135deg, var(--color-gold), #0F9C8C);
+  color: #06201C;
+  font-weight: 600;
+}
+
+/* Grid Layout */
+.ownership-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
+  gap: 26px;
+}
+
+/* Ownership Card */
+.ownership-card {
+  padding: 36px 30px;
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  border-radius: var(--radius-lg);
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.4s var(--transition-luxury), border-color var(--transition-fast), box-shadow 0.4s ease;
+}
+
+.ownership-card:hover {
+  transform: translateY(-6px);
+  border-color: rgba(45, 212, 191, 0.35);
+  box-shadow: 0 20px 48px -15px rgba(45, 212, 191, 0.15);
+}
+
+.ownership-card-icon {
+  width: 48px;
+  height: 48px;
+  border-radius: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.25rem;
+  margin-bottom: 22px;
+}
+
+.warranty-icon {
+  background: rgba(45, 212, 191, 0.08);
+  color: var(--color-gold);
+}
+
+.finance-icon {
+  background: rgba(15, 156, 140, 0.1);
+  color: #0F9C8C;
+}
+
+.ownership-card h3 {
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin-bottom: 6px;
+  color: var(--color-white);
+  letter-spacing: 0.3px;
+}
+
+.ownership-card-tagline {
+  color: var(--color-gold);
+  font-size: 0.82rem;
+  font-weight: 500;
+  margin-bottom: 14px;
+}
+
+.ownership-card-desc {
+  color: rgba(229, 231, 235, 0.65);
+  font-size: 0.88rem;
+  line-height: 1.65;
+  margin-bottom: 24px;
+}
+
+/* Specs pills inside cards */
+.ownership-card-specs {
+  margin-top: auto;
+  display: flex;
+  gap: 8px;
+}
+
+.ownership-pill {
+  font-size: 0.72rem;
+  padding: 6px 14px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.07);
+  color: rgba(229, 231, 235, 0.75);
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+/* Finance pricing styles */
+.finance-rate {
+  margin-bottom: 20px;
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+}
+
+.rate-num {
+  font-size: 1.7rem;
+  font-weight: 800;
+  color: var(--color-gold);
+}
+
+.rate-label {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: rgba(229, 231, 235, 0.4);
+}
+
+.finance-details-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 24px 0;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  border-top: 1px solid rgba(255, 255, 255, 0.05);
+  padding-top: 18px;
+}
+
+.finance-details-list li {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.85rem;
+}
+
+.list-label {
+  color: rgba(229, 231, 235, 0.55);
+}
+
+.list-value {
+  color: var(--color-white);
+  font-weight: 600;
+}
+
+/* Finance highlights */
+.ownership-highlights {
+  margin-top: auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.highlight-tag {
+  font-size: 0.7rem;
+  padding: 5px 12px;
+  border-radius: 999px;
+  background: rgba(45, 212, 191, 0.05);
+  border: 1px solid rgba(45, 212, 191, 0.12);
+  color: var(--color-gold);
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+}
+
+/* ── Responsive Styling ── */
+@media (max-width: 992px) {
+  .warranty-section {
+    padding: 80px 5%;
+  }
+}
+
+@media (max-width: 768px) {
+  .warranty-header {
+    margin-bottom: 36px;
+  }
+  .ownership-tab {
+    padding: 10px 18px;
+    font-size: 0.82rem;
+    gap: 6px;
+  }
+  .ownership-grid {
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 20px;
+  }
+}
+
+@media (max-width: 480px) {
+  .ownership-tabs {
+    display: flex;
+    width: 100%;
+    border-radius: 12px;
+    padding: 4px;
+  }
+  .ownership-tab {
+    flex: 1;
+    font-size: 0.78rem;
+    padding: 10px 12px;
+    border-radius: 8px;
+  }
+  .ownership-grid {
+    grid-template-columns: 1fr;
+  }
+  .ownership-card {
+    padding: 24px 20px;
+  }
+  .rate-num {
+    font-size: 1.5rem;
+  }
+}

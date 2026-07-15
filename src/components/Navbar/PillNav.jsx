@@ -6,11 +6,13 @@ import VisitorCounter from '../VisitorCounter/VisitorCounter.jsx'
 import './pillnav.css'
 
 const LINKS = [
-  { href: '#home',     label: 'Home' },
-  { href: '#brands',   label: 'Brands' },
-  { href: '#vehicles', label: 'Vehicles' },
-  { href: '#services', label: 'Services' },
-  { href: '#contact',  label: 'Contact' },
+  { href: '#home',      label: 'Home' },
+  { href: '#brands',    label: 'Brands' },
+  { href: '#vehicles',  label: 'Vehicles' },
+  { href: '#ownership', label: 'Plans' },
+  { href: '#gallery',   label: 'Gallery' },
+  { href: '#about',     label: 'About' },
+  { href: '#contact',    label: 'Contact' },
 ]
 
 function smoothScrollTo(id) {
