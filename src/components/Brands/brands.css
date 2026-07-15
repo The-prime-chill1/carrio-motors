@@ -10,6 +10,8 @@
   background: rgba(255,255,255,0.03);
   border: 1px solid rgba(255,255,255,0.08);
   transition: border-color var(--transition-luxury), box-shadow var(--transition-luxury), transform var(--transition-luxury);
+  display: flex;
+  flex-direction: column;
 }
 .brand-card:hover {
   border-color: var(--color-gold);
@@ -26,4 +28,56 @@
   border-radius: 999px;
   border: 1px solid rgba(255,255,255,0.12);
   color: var(--color-silver);
+}
+
+/* View Showroom Button */
+.brand-showroom-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: auto;
+  padding-top: 20px;
+  padding: 10px 20px;
+  border-radius: 999px;
+  border: 1px solid var(--color-gold);
+  background: transparent;
+  color: var(--color-gold);
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+  transition: color 0.3s ease, box-shadow 0.3s ease, transform 0.2s ease;
+}
+.brand-showroom-btn::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: var(--color-gold);
+  transform: translateX(-100%);
+  transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+  z-index: 0;
+}
+.brand-showroom-btn span,
+.brand-showroom-btn svg {
+  position: relative;
+  z-index: 1;
+  transition: color 0.3s ease;
+}
+.brand-showroom-btn:hover::before {
+  transform: translateX(0);
+}
+.brand-showroom-btn:hover {
+  color: #0a0a0a;
+  box-shadow: 0 0 20px rgba(45, 212, 191, 0.4);
+  transform: translateY(-2px);
+}
+.brand-showroom-btn svg {
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+.brand-showroom-btn:hover svg {
+  transform: translateX(4px);
+  stroke: #0a0a0a;
 }

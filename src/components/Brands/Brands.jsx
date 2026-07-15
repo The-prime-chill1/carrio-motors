@@ -35,6 +35,15 @@ export default function Brands() {
             <div className="brand-models">
               {b.featuredModels.map((m) => <span key={m}>{m}</span>)}
             </div>
+            <button
+              className="brand-showroom-btn"
+              onClick={(e) => { e.stopPropagation(); setSelectedBrand(b); }}
+            >
+              <span>View Showroom</span>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
+                <path d="M5 12h14M12 5l7 7-7 7"/>
+              </svg>
+            </button>
           </motion.div>
         ))}
       </div>
