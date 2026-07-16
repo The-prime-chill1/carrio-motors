@@ -1,9 +1,18 @@
 import { useEffect, useRef, useState } from 'react'
-import { motion } from 'framer-motion'
+import { motion, AnimatePresence } from 'framer-motion'
 import { FaArrowRight, FaCarSide } from 'react-icons/fa6'
-import heroCarImg from '../../assets/audi-r8-hero.jpg'
 import LightRays from '../LightRays/LightRays.jsx'
 import './hero.css'
+
+const HERO_SLIDES = [
+  { brand: 'Audi',    model: 'R8 Coupe',          src: '/images/cars/audi/r8.jpg',           alt: 'Audi R8 — available at Carrio Motors' },
+  { brand: 'Jeep',    model: 'Grand Cherokee',    src: '/images/cars/jeep/grand-cherokee.jpg', alt: 'Jeep Grand Cherokee — available at Carrio Motors' },
+  { brand: 'Suzuki',  model: 'Vitara',            src: '/images/cars/suzuki/vitara.jpg',      alt: 'Suzuki Vitara — available at Carrio Motors' },
+  { brand: 'BMW',     model: 'X5',                src: '/images/cars/bmw/x5.jpg',             alt: 'BMW X5 — available at Carrio Motors' },
+  { brand: 'Hyundai', model: 'Ioniq 5',           src: '/images/cars/hyundai/ioniq5.jpg',     alt: 'Hyundai Ioniq 5 — available at Carrio Motors' },
+  { brand: 'Kia',     model: 'EV6',               src: '/images/cars/kia/ev6.jpg',            alt: 'Kia EV6 — available at Carrio Motors' },
+  { brand: 'MG',      model: 'Marvel R',          src: '/images/cars/mg/marvel-r.jpg',        alt: 'MG Marvel R — available at Carrio Motors' }
+]
 
 // Each stat: label, end value, prefix/suffix, duration (ms)
 const STATS = [
@@ -55,6 +64,15 @@ function StatCounter({ label, end, suffix, prefix }) {
 }
 
 export default function Hero() {
+  const [currentIndex, setCurrentIndex] = useState(0)
+
+  useEffect(() => {
+    const timer = setInterval(() => {
+      setCurrentIndex((prev) => (prev + 1) % HERO_SLIDES.length)
+    }, 5000)
+    return () => clearInterval(timer)
+  }, [currentIndex])
+
   return (
     <section className="hero" id="home">
       <div className="hero-rays"><LightRays opacity={0.18} /></div>
@@ -133,12 +151,44 @@ export default function Hero() {
           animate={{ opacity: 1, scale: 1, x: 0 }}
           transition={{ duration: 1.1, delay: 0.2, ease: [0.16, 1, 0.3, 1] }}
         >
-          <div className="hero-car-glow" aria-hidden="true" />
-          <img
-            src={heroCarImg}
-            alt="Audi R8 — available at Carrio Motors"
-            className="hero-car-img"
-          />
+          <div className="hero-car-float-wrapper">
+            <div className="hero-car-glow" aria-hidden="true" />
+            
+            <div className="hero-car-slideshow">
+              <AnimatePresence mode="popLayout">
+                <motion.div
+                  key={currentIndex}
+                  className="hero-slide-container"
+                  initial={{ opacity: 0, x: 80, scale: 0.96 }}
+                  animate={{ opacity: 1, x: 0, scale: 1 }}
+                  exit={{ opacity: 0, x: -80, scale: 0.96 }}
+                  transition={{ duration: 0.5, ease: [0.16, 1, 0.3, 1] }}
+                >
+                  <div className="hero-car-badge">
+                    <span className="hero-badge-brand">{HERO_SLIDES[currentIndex].brand}</span>
+                    <span className="hero-badge-divider">|</span>
+                    <span className="hero-badge-model">{HERO_SLIDES[currentIndex].model}</span>
+                  </div>
+                  <img
+                    src={HERO_SLIDES[currentIndex].src}
+                    alt={HERO_SLIDES[currentIndex].alt}
+                    className="hero-car-img"
+                  />
+                </motion.div>
+              </AnimatePresence>
+            </div>
+
+            <div className="hero-slideshow-indicators">
+              {HERO_SLIDES.map((slide, idx) => (
+                <button
+                  key={slide.brand}
+                  className={`hero-indicator-dot ${idx === currentIndex ? 'active' : ''}`}
+                  onClick={() => setCurrentIndex(idx)}
+                  aria-label={`Go to slide ${slide.brand}`}
+                />
+              ))}
+            </div>
+          </div>
         </motion.div>
       </div>
 
